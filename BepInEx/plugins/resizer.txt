@@ -1,0 +1,4 @@
+/Canvas=ChangeFontSizeByPercentage(0.92)
+/Canvas/SplashNSFWWarning=ChangeFontSizeByPercentage(1)
+/Canvas/SplashDeviceSupport=ChangeFontSizeByPercentage(1)
+/Canvas/PlayMenu=ChangeFontSizeByPercentage(1)

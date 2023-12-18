@@ -1,0 +1,1 @@
+CharaCustom/CustomControl/CanvasDraw=TMP_Overflow("ScrollRect")

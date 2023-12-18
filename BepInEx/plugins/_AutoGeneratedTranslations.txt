@@ -1,0 +1,2068 @@
+﻿————————初次游戏翻译
+Adjust screen brightness until the symbol on the right is barely visible.=调整屏幕亮度，直到右侧的符号几乎看不见
+Current input device: \n 麦克风 (2- USB Audio Device)=当前输入设备：麦克风（2- USB音频设备）
+
+This experience has been designed for in-game voice chat, so I recommend giving it a try.\n\n=建议启用游戏内语音，以获得更佳游戏体验\n\n
+MODE: Voice activation=模式：启用语音
+MODE: Push to talk=模式：按键说话
+Gamma/Brightness:=伽玛/亮度：
+> CONFIRM=>确认
+  CONFIRM= 确认
+ENABLED=启用
+DISABLED=禁用
+SET-UP=设置。
+————————标题翻译
+v40=V40
+> Host=>建立主机
+> Credits=>制作人员
+> Settings=>游戏设置
+> Join a crew=>加入游戏
+> Quit=>退出
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=您处于局域网模式。\n允许通过局域网进行远程连接时，请确保已启用网络安全措施，例如防火墙和/或VPN。
+> Join LAN session=>加入局域网会话
+(Launched in LAN mode)=（以局域网模式启动）
+Welcome! Version 40 is out now.\nOthers must update their game to play with you on this version.\n\nGood luck!=欢迎！\n版本40现在已发布。\n其他人必须更新至最新版本才能与您一起游玩。\n祝你好运！
+Welcome!=欢迎！
+LAUNCH MODE=启动模式
+> Online=> 在线
+(Recommended)=（推荐）
+  LAN=  局域网
+  Online=  在线
+> LAN=> 局域网
+[ Confirm ]=[ 确认 ]
+[ Continue ]=[ 继续 ]
+DISCARD=放弃
+Sort: worldwide=排序：全球
+[ Refresh ]=[ 刷新 ]
+Join=加入
+> Back to menu=>回到菜单
+Servers=服务器
+YOU ARE FIRED.=你被开除了。
+You did not meet the profit quota before the deadline.=您没有在截止日期前达到目标金额。
+NEW PROFIT QUOTA:=新的目标金额：
+PRIVATE means you must send invites through Steam for players to join.=私人意味着您必须通过Steam发送邀请供玩家加入。
+Server name:=服务器名称：
+Started server, joining...=启动服务器，加入中...
+PUBLIC means your game will be visible on the server list for all to see.=公开意味着您的游戏将在服务器列表中对所有人可见。
+(Cannot hold until ship has landed)=（飞船降落后才能拾取）
+INSTABILITY:=不稳定：
+BACK=后退
+Loading...=加载中...
+Connecting to host...=连接到主机...
+Unconfirmed changes!=更改尚未保存！
+[ Back ]=[ 后退 ]
+The server host disconnected.=与服务器主机断开连接。
+Save File=保存存档
+File 1=文件1
+File 2=文件2
+File 3=文件3
+Public=公开
+Friends-only=仅限朋友
+PILOT COMPUTER=计算机控制系统
+————————交互翻译
+Pull valve : [E]=拉阀：[E]
+Start game : [E]=开始游戏：[E]
+Access terminal : [E]=访问终端：[E]
+Quit terminal : [TAB]=退出终端：[TAB]
+Grab : [E]=拿取：[E]
+Open door : [E]=开门：[E]
+Close door : [E]=关门：[E]
+Start ship : [E]=启动飞船：[E]
+Enter : [E]=进入：[E]
+Climb : [E]=攀登：[E]
+Let go : [E]=放手：[E]
+Locked=锁住了
+Picking lock: 29 sec.=解锁中：29秒
+Picking lock: 28 sec.=解锁中：28秒。
+Picking lock: 27 sec.=解锁中：27秒。
+Picking lock: 26 sec.=解锁中：26秒。
+Picking lock: 25 sec.=解锁中：25秒。
+Picking lock: 24 sec.=解锁中：24秒。
+Picking lock: 23 sec.=解锁中：23秒。
+Picking lock: 22 sec.=解锁中：22秒。
+Picking lock: 21 sec.=解锁中：21秒。
+Picking lock: 20 sec.=解锁中：20秒。
+Picking lock: 19 sec.=解锁中：19秒。
+Picking lock: 18 sec.=解锁中：18秒。
+Picking lock: 17 sec.=解锁中：17秒。
+Picking lock: 16 sec.=解锁中：16秒。
+Picking lock: 15 sec.=解锁中：15秒。
+Picking lock: 14 sec.=解锁中：14秒。
+Picking lock: 13 sec.=解锁中：13秒。
+Picking lock: 12 sec.=解锁中：12秒。
+Picking lock: 11 sec.=解锁中：11秒。
+Picking lock: 10 sec.=解锁中：10秒。
+Picking lock: 9 sec.=解锁中：9秒。
+Picking lock: 8 sec.=解锁中：8秒。
+Picking lock: 7 sec.=解锁中：7秒。
+Picking lock: 6 sec.=解锁中：6秒。
+Picking lock: 5 sec.=解锁中：5秒。
+Picking lock: 4 sec.=解锁中：4秒。
+Picking lock: 3 sec.=解锁中：3秒。
+Picking lock: 2 sec.=解锁中：2秒。
+Picking lock: 1 sec.=解锁中：1秒。
+Picking lock: 0 sec.=解锁中：0秒。
+7:39\nAM=7:39\nAM
+7:44\nAM=7:44\nAM
+7:48\nAM=7:48\nAM
+7:52\nAM=7:52\nAM
+7:56\nAM=7:56\nAM
+8:02\nAM=8:02\nAM
+8:05\nAM=8:05\nAM
+8:13\nAM=8:13\nAM
+8:18\nAM=8:18\nAM
+8:22\nAM=8:22\nAM
+8:26\nAM=8:26\nAM
+8:30\nAM=8:30\nAM
+8:34\nAM=8:34\nAM
+8:39\nAM=8:39\nAM
+8:43\nAM=8:43\nAM
+8:47\nAM=8:47\nAM
+8:51\nAM=8:51\nAM
+8:56\nAM=8:56\nAM
+9:00\nAM=9:00\nAM
+9:04\nAM=9:04\nAM
+9:08\nAM=9:08\nAM
+9:13\nAM=9:13\nAM
+9:17\nAM=9:17\nAM
+9:21\nAM=9:21\nAM
+9:25\nAM=9:25\nAM
+9:29\nAM=9:29\nAM
+9:34\nAM=9:34\nAM
+9:38\nAM=9:38\nAM
+9:42\nAM=9:42\nAM
+9:46\nAM=9:46\nAM
+9:51\nAM=9:51\nAM
+9:55\nAM=9:55\nAM
+9:59\nAM=9:59\nAM
+10:03\nAM=10:03\nAM
+10:07\nAM=10:07\nAM
+10:12\nAM=10:12\nAM
+10:16\nAM=10:16\nAM
+10:20\nAM=10:20\nAM
+10:24\nAM=10:24\nAM
+10:29\nAM=10:29\nAM
+10:33\nAM=10:33\nAM
+10:37\nAM=10:37\nAM
+10:41\nAM=10:41\nAM
+10:46\nAM=10:46\nAM
+10:50\nAM=10:50\nAM
+10:54\nAM=10:54\nAM
+10:58\nAM=10:58\nAM
+11:02\nAM=11:02\nAM
+11:07\nAM=11:07\nAM
+11:11\nAM=11:11\nAM
+11:15\nAM=11:15\nAM
+11:19\nAM=11:19\nAM
+11:24\nAM=11:24\nAM
+11:28\nAM=11:28\nAM
+11:32\nAM=11:32\nAM
+11:36\nAM=11:36\nAM
+11:41\nAM=11:41\nAM
+11:45\nAM=11:45\nAM
+11:49\nAM=11:49\nAM
+11:53\nAM=11:53\nAM
+11:57\nAM=11:57\nAM
+12:02\nPM=12:02\nPM
+12:06\nPM=12:06\nPM
+12:10\nPM=12:10\nPM
+12:14\nPM=12:14\nPM
+12:19\nPM=12:19\nPM
+12:23\nPM=12:23\nPM
+12:27\nPM=12:27\nPM
+12:31\nPM=12:31\nPM
+12:36\nPM=12:36\nPM
+12:40\nPM=12:40\nPM
+12:44\nPM=12:44\nPM
+12:48\nPM=12:48\nPM
+12:53\nPM=12:53\nPM
+12:57\nPM=12:57\nPM
+1:01\nPM=1:01\nPM
+1:05\nPM=1:05\nPM
+1:10\nPM=1:10\nPM
+1:14\nPM=1:14\nPM
+1:18\nPM=1:18\nPM
+1:22\nPM=1:22\nPM
+1:26\nPM=1:26\nPM
+1:31\nPM=1:31\nPM
+1:35\nPM=1:35\nPM
+1:39\nPM=1:39\nPM
+1:43\nPM=1:43\nPM
+1:48\nPM=1:48\nPM
+1:52\nPM=1:52\nPM
+1:56\nPM=1:56\nPM
+2:00\nPM=2:00\nPM
+2:05\nPM=2:05\nPM
+2:09\nPM=2:09\nPM
+2:13\nPM=2:13\nPM
+2:17\nPM=2:17\nPM
+2:22\nPM=2:22\nPM
+2:26\nPM=2:26\nPM
+2:30\nPM=2:30\nPM
+2:34\nPM=2:34\nPM
+2:38\nPM=2:38\nPM
+2:43\nPM=2:43\nPM
+2:47\nPM=2:47\nPM
+2:51\nPM=2:51\nPM
+2:55\nPM=2:55\nPM
+3:00\nPM=3:00\nPM
+3:04\nPM=3:04\nPM
+3:08\nPM=3:08\nPM
+3:12\nPM=3:12\nPM
+3:17\nPM=3:17\nPM
+3:21\nPM=3:21\nPM
+3:25\nPM=3:25\nPM
+3:29\nPM=3:29\nPM
+3:33\nPM=3:33\nPM
+3:38\nPM=3:38\nPM
+3:42\nPM=3:42\nPM
+3:46\nPM=3:46\nPM
+3:50\nPM=3:50\nPM
+3:55\nPM=3:55\nPM
+3:59\nPM=3:59\nPM
+4:03\nPM=4:03\nPM
+4:07\nPM=4:07\nPM
+4:11\nPM=4:11\nPM
+4:16\nPM=4:16\nPM
+4:20\nPM=4:20\nPM
+4:24\nPM=4:24\nPM
+4:28\nPM=4:28\nPM
+4:33\nPM=4:33\nPM
+4:37\nPM=4:37\nPM
+4:41\nPM=4:41\nPM
+4:45\nPM=4:45\nPM
+4:49\nPM=4:49\nPM
+4:54\nPM=4:54\nPM
+4:58\nPM=4:58\nPM
+5:02\nPM=5:02\nPM
+5:06\nPM=5:06\nPM
+5:11\nPM=5:11\nPM
+5:15\nPM=5:15\nPM
+5:19\nPM=5:19\nPM
+5:23\nPM=5:23\nPM
+5:28\nPM=5:28\nPM
+5:32\nPM=5:32\nPM
+5:36\nPM=5:36\nPM
+5:40\nPM=5:40\nPM
+5:44\nPM=5:44\nPM
+5:49\nPM=5:49\nPM
+5:53\nPM=5:53\nPM
+5:57\nPM=5:57\nPM
+6:01\nPM=6:01\nPM
+6:06\nPM=6:06\nPM
+6:10\nPM=6:10\nPM
+6:14\nPM=6:14\nPM
+6:18\nPM=6:18\nPM
+6:22\nPM=6:22\nPM
+6:27\nPM=6:27\nPM
+6:31\nPM=6:31\nPM
+6:35\nPM=6:35\nPM
+6:39\nPM=6:39\nPM
+6:44\nPM=6:44\nPM
+6:48\nPM=6:48\nPM
+6:52\nPM=6:52\nPM
+6:56\nPM=6:56\nPM
+7:01\nPM=7:01\nPM
+7:05\nPM=7:05\nPM
+7:09\nPM=7:09\nPM
+7:13\nPM=7:13\nPM
+7:18\nPM=7:18\nPM
+7:22\nPM=7:22\nPM
+7:26\nPM=7:26\nPM
+7:30\nPM=7:30\nPM
+7:34\nPM=7:34\nPM
+7:39\nPM=7:39\nPM
+7:43\nPM=7:43\nPM
+7:47\nPM=7:47\nPM
+7:51\nPM=7:51\nPM
+7:56\nPM=7:56\nPM
+8:00\nPM=8:00\nPM
+8:04\nPM=8:04\nPM
+8:08\nPM=8:08\nPM
+8:09\nAM=8:09\nAM
+8:13\nPM=8:13\nPM
+8:17\nPM=8:17\nPM
+8:21\nPM=8:21\nPM
+8:25\nPM=8:25\nPM
+8:29\nPM=8:29\nPM
+8:34\nPM=8:34\nPM
+8:38\nPM=8:38\nPM
+8:42\nPM=8:42\nPM
+8:46\nPM=8:46\nPM
+8:51\nPM=8:51\nPM
+8:55\nPM=8:55\nPM
+8:59\nPM=8:59\nPM
+9:03\nPM=9:03\nPM
+9:08\nPM=9:08\nPM
+9:12\nPM=9:12\nPM
+9:16\nPM=9:16\nPM
+9:20\nPM=9:20\nPM
+9:25\nPM=9:25\nPM
+9:29\nPM=9:29\nPM
+9:33\nPM=9:33\nPM
+9:37\nPM=9:37\nPM
+9:42\nPM=9:42\nPM
+9:46\nPM=9:46\nPM
+9:50\nPM=9:50\nPM
+9:54\nPM=9:54\nPM
+9:58\nPM=9:58\nPM
+10:03\nPM=10:03\nPM
+10:07\nPM=10:07\nPM
+10:11\nPM=10:11\nPM
+10:15\nPM=10:15\nPM
+10:20\nPM=10:20\nPM
+10:24\nPM=10:24\nPM
+10:28\nPM=10:28\nPM
+10:32\nPM=10:32\nPM
+10:36\nPM=10:36\nPM
+10:41\nPM=10:41\nPM
+10:45\nPM=10:45\nPM
+10:49\nPM=10:49\nPM
+10:53\nPM=10:53\nPM
+10:58\nPM=10:58\nPM
+11:02\nPM=11:02\nPM
+11:06\nPM=11:06\nPM
+11:10\nPM=11:10\nPM
+11:14\nPM=11:14\nPM
+11:19\nPM=11:19\nPM
+11:23\nPM=11:23\nPM
+11:27\nPM=11:27\nPM
+11:31\nPM=11:31\nPM
+11:36\nPM=11:36\nPM
+11:40\nPM=11:40\nPM
+11:44\nPM=11:44\nPM
+11:48\nPM=11:48\nPM
+11:52\nPM=11:52\nPM
+11:57\nPM=11:57\nPM
+12:00 \n AM=12:00\nAM
+Confirm: [B]   |   Rotate: [R]   |   Store: [X]=放置：[b] |\n旋转：[R] |\n存储至控制终端：[x]
+Switch camera : [E]=切换监视目标：[E]
+Turn on/off : [E]=打开/关闭监视器：[E]
+Turn page : [Q/E]=翻页：[Q/e]
+Inspect: [Z]=检查：[Z]
+Charge item : [E]=充电：[E]
+Flip switch: [E]=翻转开关：[E]
+Send voice : [LMB]=发送声音：[左键]
+Power button : [Q]=电源按钮：[Q]
+Use ladder : [E]=使用梯子：[E]
+Land ship : [E]=着陆：[E]
+Ring bell: [E]=按铃：[E]
+Store item : [E]=存储物品：[E]
+Sell item : [E]=出售物品：[E]
+Exit : [E]=离开：[E]
+Enter: [E]=进入：[E]
+Use door : [E]=使用门：[E]
+HANDS FULL=手里有东西了!
+Toggle light : [LMB]=开关手电：[左键]
+Switch lights : [E]=开关灯：[E]
+Place on door : [LMB]=放在门上：[左键]
+Scan for threat: [LMB]=扫描威胁：[左键]
+Use cash register : [LMB]=使用收银机：[左键]
+Turn on booster : [LMB]=打开雷达发射器：[左键]
+Swing shovel : [LMB]=挥动铲子：[左键]
+Disable speaker: [E]=禁用扬声器：[E]
+Toggle music : [LMB]=切换音乐：[左键]
+Use horn : [LMB]=使用喇叭：[左键]
+Beam up : [E]=射击：[E]
+Use key : [LMB]=使用钥匙：[左键]
+Use grenade : [LMB]=使用震撼弹：[左键]
+Pop up ladder : [LMB]=弹出梯子：[左键]
+Pull pin: [LMB]=拔出插销：[左键]
+Lift glass : [E]=抬起防护罩：[E]
+Switch water: [E]=切换水量：[E]
+Switch TV: [E]=切换电视：[E]
+Pull cord: [E] (Hold)=拉线：[E]（按住）
+[Pulling cord]=[拉绳]
+[Cooldown: 145 sec.]=[冷却：145秒]
+Open hatch : [E]=打开舱口：[E]
+Get log : [E]=获取日志：[E]
+Hit pumpkin : [E]=拍打南瓜：[E]
+Play record: [E]=播放录音：[E]
+————————警告翻译
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=警告！！！\n自动驾驶已激活，飞船将于午夜撤离。\n请迅速返回。
+WARNING! Please return by 12:52 PM. A vote has been cast, and the autopilot ship will leave early.=警告！\n请在下午12:52之前返回。\n投票已经通过，飞船将交由自动驾驶系统操控提早离开。
+Alert! The autopilot is leaving due to dangerous conditions.=警报！\n由于危险条件飞船将交由自动驾驶系统操控离开。
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=公司必须最小化专有硬件受损风险。\n再见！
+[LIFE SUPPORT: OFFLINE]=[生命支持系统：离线]
+(Dead)=（死亡）
+ALERT!=警报！
+Drop your metallic items now! A static charge has been detected. You have seconds left to live.=立即放下金属物品！\n检测到静电充能。\n您还有几秒钟的时间。
+Warning! No response from crew, which has not returned. Emergency code activated.=警告！\n船员没有回应，暂无人员返回。\n紧急代码激活。
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=将自动驾驶至最近的安全太空港。\n您的物品丢失了。
+TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=提示：按住[右键]投票决定是否提前撤离。
+Tell autopilot ship to leave early : [RMB] (Hold)=通知飞船提前撤离：[右键]（按住）
+Ship leaving in one hour=飞船将在一小时内撤离
+————————选项翻译
+Look sensitivity:=视角灵敏度：
+CONTROLS=选项
+T=T
+Invert Y-Axis=Y轴反转
+Master volume:=主音量：
+Push to talk:=按键通话：
+Use monitor (V-Sync)=使用监视器（V-Sync）
+DISPLAY=显示
+Display mode:=显示模式：
+Fullscreen=全屏
+Windowed fullscreen=无边框全屏
+Maximized window=窗口最大化
+Window=窗口化
+Option A=选项A。
+Frame rate cap:=帧率上限：
+30 FPS=30 fps
+60 FPS=60 fps
+120 FPS=120 fps
+144 FPS=144 fps
+Uncapped=无限制
+> Back=> 后退
+> Reset all to default=> 恢复默认
+> Confirm changes=> 确认更改
+> Resume=>继续
+> Invite friends=>邀请朋友
+Discard changes=放弃更改
+Confirm=确认
+Discard=放弃
+Confirm changes?=确认更改？
+help=帮助
+> Cancel=>取消
+> Confirm=>确认
+Waiting for crew...=等待队员...
+————————实验翻译
+Orbiting: 7 Dine\nPOPULATION: None\nCONDITIONS: Frozen, rocky. Its planet orbits a white dwarf star.\nFAUNA: Unlikely for complex life to exist\n=轨道：7 Dine\n人口：无\n环境：冰冻，满是岩石。\n行星围绕着白矮星旋转。\n动物群系：不太可能存在高等生命\n
+Orbiting: 41 Experimentation\nPOPULATION: Abandoned\nCONDITIONS: Arid. Thick haze, worsened by industrial artifacts.\nFAUNA: Dominated by a few species.\nWeather: Flooded=轨道：41 Experimentation\n人口：已废弃\n环境：干旱。\n雾霾严重，因工业遗址而恶化。\n动物群系：以几种物种为主。\n天气：洪水
+Orbiting: 41 Experimentation\nPOPULATION: Abandoned\nCONDITIONS: Arid. Thick haze, worsened by industrial artifacts.\nFAUNA: Dominated by a few species.\nWeather: Rainy=轨道：41 Experimentation\n人口：已废弃\n环境：干旱。\n雾霾严重，因工业遗址而恶化。\n动物群系：以几种物种为主。\n天气：多雨
+Orbiting: 61 March\nPOPULATION: Abandoned\nCONDITIONS: Expansive. Constant rain.\nFAUNA: Diverse\n=轨道：61 March\n人口：已废弃\n环境：生机勃勃。\n阴雨连绵。\n动物群系：多样\n
+Orbiting: 71 Gordion\nPOPULATION: Unknown\nCONDITIONS: No land masses. Continual storms.\nFAUNA: Unknown\nWhere the Company resides.\n=轨道：71 Gordion\n人口：未知\n环境：没有土地群体。\n持续的风暴。\n动物群系：公司居住在哪里。\n
+Orbiting: 220 Assurance\nPOPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: Ecosystem supports territorial behaviour.\nWeather: Stormy=绕：220 Assurance\n：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在具有领地意识的生物。\n天气：暴风雨
+POPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: Ecosystem supports territorial behaviour.=人口：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在具有领地意识的生物。
+POPULATION: Unknown\nCONDITIONS: No land masses. Continual storms.\nFAUNA: Unknown\nWhere the Company resides.=人口：未知\n环境：没有土地。\n持续的风暴。\n动物群系：公司居住在哪里。
+CELESTIAL BODY: 220 Assurance=天体：220保证
+Random seed: 73736653=随机种子：73736653
+CELESTIAL BODY: 71 Gordion=天体：71戈迪翁
+Orbiting: 220 Assurance\nPOPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: Ecosystem supports territorial behaviour.\nWeather: Flooded=绕：220 Assurance\n：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在具有领地意识的生物。\n天气：洪水
+Orbiting: 56 Vow\nPOPULATION: Abandoned\nCONDITIONS: Humid. Rough terrain. Teeming with plant-life.\nFAUNA: A competitive ecosystem supports aggressive lifeforms.\n=轨道：56 Vow\n人口：已废弃\n环境：潮湿。\n地形崎岖。\n植被覆盖率高。\n动物群系：生态系统中可能存在好斗的生物。\n
+Orbiting: 21 Offense\nPOPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: A competitive ecosystem supports aggressive lifeforms.\nWeather: Stormy=绕：21次犯罪人口：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在好斗的生物。\n天气：暴风雨
+Random seed: 4945047=随机种子：4945047
+Random seed: 14567721=随机种子：14567721
+Random seed: 25024057=随机种子：25024057
+Random seed: 70076519=随机种子：70076519
+Random seed: 81546677=随机种子：81546677
+Random seed: 94488271=随机种子：94488271
+Random seed: 70749647=随机种子：70749647
+Random seed: 14390802=随机种子：14390802
+Random seed: 44082710=随机种子：44082710
+Random seed: =随机种子：
+S+=S+
+Safe=安全的
+POPULATION: None\nCONDITIONS: Frozen, rocky. This moon was mined for resources. It's easy to get lost here.\nFAUNA: Dangerous entities have been rumored to take residence in the vast network of tunnels.=人口：无\环境：冷冻，洛基。\n这颗星球上曾开采过矿物。\n很容易在这里迷路。\n动物群系：传说庞杂的隧道网中住着危险的实体。
+CELESTIAL BODY: 8 Titan=天体：8 Titan
+CELESTIAL BODY: 7 Dine=天体：7 Dine
+POPULATION: None\nCONDITIONS: Frozen, rocky. Its planet orbits a white dwarf star.\nFAUNA: Unlikely for complex life to exist=人口：无\环境：冷冻，洛基。\n它的行星绕着白色矮人旋转。\n动物群系：不太可能存在高等生命
+Seth=Seth
+Orbiting: 7 Dine\nPOPULATION: None\nCONDITIONS: Frozen, rocky. Its planet orbits a white dwarf star.\nFAUNA: Unlikely for complex life to exist\nWeather: Eclipsed=轨道：7 Dine\n人口：无\环境：冻结，岩石。\n它的行星绕着白色矮人旋转。\n动物群系：不太可能存在高等生命天气：日食
+Orbiting: 85 Rend\nPOPULATION: None\nCONDITIONS: Frozen, rocky. Its planet orbits a white dwarf star.\nFAUNA: Unlikely for complex life to exist\nWeather: Stormy=轨道：85 Dine\n人口：无\环境：冷冻，岩石。\n它的行星绕着白色矮人旋转。\n动物群系：不太可能存在高等生命天气：暴风雨
+CELESTIAL BODY: 85 Rend=天体：85
+Orbiting: 85 Rend\nPOPULATION: None\nCONDITIONS: Frozen, rocky. Its planet orbits a white dwarf star.\nFAUNA: Unlikely for complex life to exist\n=轨道：85 Dine\n人口：无\环境：冷冻，岩石。\n它的行星绕着白色矮人旋转。\n动物群系：不太可能存在高等生命\n
+Orbiting: 41 Experimentation\nPOPULATION: Abandoned\nCONDITIONS: Arid. Thick haze, worsened by industrial artifacts.\nFAUNA: Dominated by a few species.\nWeather: Foggy=轨道：41号实验\n人口：被遗弃的\n环境：干旱。\n雾霾严重，因工业遗址而恶化。\n动物群系：以少数物种为主。\n天气：有雾
+Orbiting: 41 Experimentation\nPOPULATION: Abandoned\nCONDITIONS: Arid. Thick haze, worsened by industrial artifacts.\nFAUNA: Dominated by a few species.\n=轨道：41号实验\n人口：被遗弃的\n环境：干旱。\n雾霾严重，因工业遗址而恶化。\n动物群系：以少数物种为主。\n
+CELESTIAL BODY: 41 Experimentation=天体：41号实验
+HAZARD LEVEL:=危险等级：
+Orbiting: 21 Offense\nPOPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: A competitive ecosystem supports aggressive lifeforms.\n=绕：21次犯罪人口：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在好斗的生物。\n
+Current input device: \n 麦克风 (HECATE G2 GAMING HEADSET)=当前输入设备：麦克风（Hecate G2游戏耳机）
+Random seed: 743396=随机种子：743396
+POPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: A competitive ecosystem supports aggressive lifeforms.=人口：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在好斗的生物。
+CELESTIAL BODY: 21 Offense=天体：21进攻
+Orbiting: 21 Offense\nPOPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: A competitive ecosystem supports aggressive lifeforms.\nWeather: Flooded=绕：21次犯罪人口：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在好斗的生物。\n天气：洪水
+Random seed: 95349539=随机种子：95349539
+————————天气翻译
+Weather alert!=天气警报！
+You have landed in an eclipse. Exercise caution!=您已经降落在发生日食事件的星球中。\n谨慎行事！
+————————环境互动翻译
+Tip=提示
+Press B to move and place objects in the ship, E to cancel.=按B移动并将对象放在船上，E取消。
+Quota=指标
+Sell scrap for cash.=出售废品以换取现金。
+Use the ship computer terminal to access secure doors.=使用飞船控制终端开启安全门。
+TIP:=提示：
+Home base=主基地
+Ship=飞船
+TOTAL:=全部的：
+Change: Green suit=更改：绿色套装
+Change: Pajama suit=更改：睡衣套装
+Change: Hazard suit=更改：危险套装
+Unnamed=未命名
+————————生物翻译
+Eyeless dog=无眼的狗
+Hygrodere=史莱姆
+Hoarding bug=囤积虫
+Manticoil=山雀
+Half=​半身鱼
+Coil-head=线圈头
+Bracken=布雷肯
+Circuit bees=电路蜜蜂
+Baboon hawk=狒狒鹰
+Forest Giant=森林巨人
+Roaming locusts=漫游蝗虫
+Snare flea=抱脸虫
+Earth Leviathan=地球利维坦
+————————物品翻译
+Laser pointer=镭射指示器
+Bunker spider=洞穴蜘蛛
+Golden cup=金杯
+Painting=绘画
+Landmine=地雷
+Teeth=牙齿
+Hair brush=发梳
+Hairdryer=电吹风
+Magnifying glass=放大镜
+Robot Toy=机器人玩具
+Fancy lamp=花哨台灯
+Coffee mug=咖啡杯
+Brass bell=黄铜铃
+Bee hive=蜜蜂蜂巢
+Tea Kettle=茶壶
+Turret=炮塔
+Stop sign=停止标志牌
+Old phone=旧电话
+Remote=遥控器
+Bottles=一箱瓶子
+Cash register=收银机
+Wedding ring=结婚戒指
+Jar of pickles=一罐泡菜
+Magic 7 ball=魔术7球
+Key=钥匙
+Plastic fish=塑料鱼
+Gold Bar=金条
+Big bolt=大型螺栓
+Tattered metal sheet=破烂的金属板
+V-type engine=V型引擎
+Apparatice=设备
+Dust pan=铲子
+Large axle=大号轴承
+Airhorn=气笛
+Candy collected!=收集了糖果！
+Perfume bottle=香水瓶
+Red soda=红色苏打水
+Clown horn=小丑号角
+Bell collected!=已收集铃铛！
+Laser pointer collected!=已收集镭射指示器！
+Brush collected!=已收集发梳！
+Toy robot collected!=已收集玩具机器人！
+Red soda collected!=已收集红色苏打水！
+Stop sign collected!=已收集停止标志牌！
+Clown horn collected!=已收集小丑号角！
+Airhorn collected!=已收集气笛！
+Toy cube collected!=已收集魔方！
+Old phone collected!=已收集旧电话！
+Cookie mold pan=已收集饼干模具
+Tea kettle collected!=已收集茶壶！
+Remote collected!=已收集遥控器！
+Bottles collected!=已收集一箱瓶子！
+Jar of pickles collected!=已收集泡菜罐子！
+Hive collected!=已收集蜂巢！
+Steering wheel collected!=已收集方向盘！
+V-type engine collected!=已收集V型引擎！
+Metal sheet collected!=已收集金属板！
+Gold bar collected!=已收集金条！
+Big bolt collected!=已收集大型螺栓！
+Apparatus collected!=已收集设备！
+Large axle collected!=已收集大号轴承！
+Dust pan collected!=已收集簸箕！
+Plastic fish collected!=已收集塑料鱼！
+Cookie mold pan collected!=已收集饼干模具！
+Ring collected!=已收集戒指！
+Cash register collected!=已收集收银机！
+collected!=已收集!
+Inventory full!=物品栏已满！
+Got scrap!=得到废品！
+————————装备翻译
+Toggle laser : [LMB]=开关镭射指示器：[左键]
+Drop Laser pointer : [G]=丢下镭射指示器：[G]
+Drop Painting : [G]=丢下绘画：[G]
+Drop Golden cup : [G]=丢下金杯：[G]
+Drop Brush : [G]=丢下发刷：[G]
+Drop Magnifying glass : [G]=丢下放大镜：[G]
+Drop Teeth : [G]=丢下牙齿：[G]
+Drop Magic 7 ball : [G]=丢下魔术7球：[G]
+Drop Jar of pickles : [G]=丢下泡菜罐子：[G]
+Drop Bell : [G]=丢下铃铛：[G]
+Use hairdryer : [LMB]=使用吹风机：[左键]
+Drop Hairdryer : [G]=丢下吹风机：[G]
+Drop Mug : [G]=丢下咖啡杯：[G]
+Drop Fancy lamp : [G]=丢下花哨台灯：[G]
+Drop Toy robot : [G]=丢下玩具机器人：[G]
+Take TZP : [LMB]=拿起TZP吸入剂：[左键]
+Drop TZP-Inhalant : [G]=丢下TZP吸入剂：[G]
+Drop Tea kettle : [G]=丢下茶壶：[G]
+Use airhorn : [LMB]=使用气笛：[左键]
+Drop Airhorn : [G]=丢下气笛：[G]
+Use jetpack : [LMB]=使用喷气背包：[左键]
+Drop Jetpack : [G]=丢下喷气背包：[G]
+Swing sign : [LMB]=挥动标志牌：[左键]
+Drop Stop sign : [G]=丢下标志牌：[G]
+Beam up : [E]=射击：[E]
+Use key : [LMB]=使用钥匙：[左键]
+Pull pin: [LMB]=拔出拉环：[左键]
+Use grenade : [LMB]=使用震撼弹：[左键]
+Pop up ladder : [LMB]=弹出梯子：[左键]
+Use remote : [LMB]=使用遥控器：[左键]
+Drop Remote : [G]=丢下遥控器：[G]
+Drop Key : [G]=丢下钥匙：[G]
+Drop Stun grenade : [G]=丢下震撼弹：[G]
+Drop Body : [G]=丢下尸体：[G]
+Drop Cookie mold pan : [G]=丢下饼干模具：[G]
+Drop clipboard : [G]=丢下任务版：[G]
+Drop Dust pan : [G]=丢下簸箕：[G]
+Drop Gold bar : [G]=丢下金条：[G]
+Drop Apparatus : [G]=丢下装置：[G]
+Drop Plastic fish : [G]=丢下塑料鱼：[G]
+Drop Flashlight : [G]=丢下手电筒：[G]
+Drop Metal sheet : [G]=丢下金属板：[G]
+Drop Walkie-talkie : [G]=丢下对讲机：[G]
+Drop Pro-flashlight : [G]=丢下高级手电：[G]
+Drop Lockpicker : [G]=丢下开锁器：[G]
+Drop V-type engine : [G]=丢下V型引擎：[G]
+Drop Bottles : [G]=丢下瓶子：[G]
+Drop Large axle : [G]=丢下大号轴承：[G]
+Drop Hive : [G]=丢下蜂巢：[G]
+Drop Zap gun : [G]=丢下电击枪：[G]
+Drop Cash register : [G]=丢下收银机：[G]
+Drop Radar-booster : [G]=丢下雷达发射器：[G]
+Drop Shovel : [G]=丢下大铲：[G]
+Drop Boombox : [G]=丢下音响：[G]
+Drop Clown horn : [G]=丢下小丑号角：[G]
+Drop Steering wheel : [G]=丢下方向盘：[G]
+Drop Big bolt : [G]=丢下大型螺栓：[G]
+Drop Key : [G]=丢下钥匙：[g]
+Drop Stun grenade : [G]=丢下震撼弹：[G]
+Drop Extension ladder : [G]=丢下延伸梯子：[G]
+Drop Perfume bottle : [G]=丢下香水瓶：[G]
+Drop Ring : [G]=丢下戒指：[G]
+Drop Old phone : [G]=丢下旧电话：[G]
+Drop Sticky note : [G]=丢下便签：[G]
+Lift glass : [E]=抬起保护罩：[E]
+————————操作文本翻译
+Walk : [W/A/S/D]=<color\=#ffffff>步行：</color>[w/a/s/d]
+Scan : [RMB]=扫描：[右键]
+Sprint: [Shift]=冲刺：[Shift]
+————————提示文本翻译
+Autosaving...=自动保存中...
+[Hands full]=[手被占满了]
+[Nothing to store]=[没什么可存储的]
+[Cannot pull valve]=[阀门无法转动]
+[ Not holding items ]=[未持有物品]
+[Near activity detected!]=[附近检测到活跃信号！]
+Buy flashlights and travel to new planets!=购买手电筒并前往新星球！
+To sell, use the terminal to route the ship to the company building.=如想出售物品，请使用控制终端将飞船导航至公司大楼。
+Main entrance=主要入口
+Can't stay closed forever=门不能永远关闭
+Door controls=门控件
+(Radar booster)=（雷达发射器）
+Notes: \n=笔记： \n
+MONITORING: =监视：
+Terminal=终端
+New creature data sent to terminal!=终端有新生物数据可供查阅！
+To read the manual:=阅读手册：
+Press Z to inspect closely. Press Q and E to flip the pages.=按Z仔细检查。\n按Q和E翻页。
+Brake lever=制动杆
+Lands the ship.=降落船。
+Would you like to leave the game?=您想离开游戏吗？
+The file will NOT save! Your ship must be in orbit.=该文件将不会保存！\n您的飞船必须在轨道上。
+No available servers to join.=没有可用的服务器可以加入。
+Item stored!=物品已储存！
+You can see stored items in the terminal by using command 'STORAGE'=您可以使用命令“存储”在终端中看到存储的项目
+MONITORING: Player=监视器：Player
+(Requires battery-powered item)=（需要电池供电的物品）
+Change suit=更换制服
+Typing...=打字中...
+Open : [E]=开启：[E]
+Tell autopilot ship to leave early : [右键] (Hold)=告诉自动驾驶船提早离开：[右键]（按住）
+Back=后退
+Sneakers=运动鞋
+Item collected!=已收集物品！
+Fines=罚款
+DOOR HYDRAULICS:=门液压系统：
+Training manual=培训手册
+Useful info!=有用信息！
+CREW:=全体人员：
+PERFORMANCE REPORT=绩效报告
+Waiting for input=等待输入
+Voice volume=语音音量
+VitaminBBC=VitaminBBC
+Coil=线圈
+Charges batteries=来给电池充电
+CRITICAL INJURY=严重受伤
+BROADCASTED SPECIAL CODE=广播特殊代码
+DEADLINE:\n3 Days=最后期限：\n3天
+SYSTEMS ONLINE=系统在线
+Right-click to scan objects in the ship for info.=右键单击扫描船上的对象以获取信息。
+Paycheck!=工资条！
+(Spectating: )=（观察：）
+VISIBILITY LOW!\n\nSteam leak detected in area=可见性低！\n区域内检测到蒸汽泄漏
+Press "/" to talk.=按"/"输入文字。
+————————等级文本翻译
+EMPLOYEE RANK=员工等级
+Intern=实习生
+
+————————杂项
+Value: $3=价值：$ 3
+Value: $5=价值：$ 5
+Value: $11=价值：$ 11
+Value: $12=价值：$ 12
+Value: $13=价值：$ 13
+Value: $14=价值：$ 14
+Value: $16=价值：$ 16
+Value: $19=价值：$ 19
+Value: $20=价值：$ 20
+Value: $21=价值：$ 21
+Value: $26=价值：$ 26
+Value: $28=价值：$ 28
+Value: $30=价值：$ 30
+Value: $33=价值：$ 33
+Value: $35=价值：$ 35
+Value: $38=价值：$ 38
+Value: $36=价值：$ 36
+Value: $42=价值：$ 42
+Value: $45=价值：$ 45
+Value: $49=价值：$ 49
+Value: $52=价值：$ 52
+Value: $54=价值：$ 54
+Value: $55=价值：$ 55
+Value: $76=价值：$ 76
+Value: $80=价值：$ 80
+Value: $207=价值：$ 207
+Value: $258=价值：$ 258
+Value: ???=价值： ???
+
+Blep2=Blep2
+Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=注意： *最懒惰的员工 *最偏执的员工 *受伤次数最多
+
+\n<color\=#ffffff>NumberOne joined the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>
+
+
+0 lb=0磅
+5 lb=5磅
+10 lb=10磅
+16 lb=16磅
+21 lb=21磅
+26 lb=26磅
+31 lb=31磅
+35 lb=35磅
+47 lb=47磅
+52 lb=52磅
+77 lb=77磅
+79 lb=79磅
+98 lb=98磅
+
+
+0 Days Left=还剩0天
+1 Day Left=仅剩1天
+2 Days Left=还剩2天
+DEADLINE:\n0 Days=最后期限：\n0天
+DEADLINE:\n1 Days=最后期限：\n1天
+DEADLINE:\n2 Days=最后期限：\n2天
+DEADLINE:\n NOW=最后期限：\n现在
+QUOTA REACHED!=指标达到了！
+[Wait for ship to land]=[等待船着陆]
+TO MEET PROFIT QUOTA=满足利润指标
+NumberOne=NumberOne
+
+{{A}}:{{B}}\nAM={{A}}:{{B}}\nAM
+{{A}}:{{B}}\nPM={{A}}:{{B}}\nPM
+\n<color\=#ffffff>{{A}} joined the ship.</color>=\n<color\=#ffffff>{{A}}加入了船。</color>
+Random seed: {{A}}=随机种子：{{A}}
+{{body}} collected!={{body}} 收集了！
+TOTAL: ${{A}}=总计：$ {{A}}
+MONITORING: {{A}}=监视：{{A}}
+Overtime bonus: ${{A}}=加班奖金：$ {{A}}
+{{A}} EXP={{A}} EXP
+{{A}} lb={{A}}磅
+Value: ${{A}}=价值：$ {{A}}
+Item {{A}}=项目{{A}}
+Current input device: \n {{A}}=当前输入设备：{{A}}
+${{A}}\nDays: {{B}}=$ {{A}}\n天：{{B}}
+DUE: $200=到期：200美元
+PROFIT QUOTA:\n$0 / $501=利润配额：$ 0 / $ 501
+
+Crazydude12=CrazyDude12
+TOTAL: [to]=总计：[to]
+
+d6=D6
+k9=K9
+b3=B3
+i1=I1
+v0=v0
+
+
+
+
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>NumberOne started the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>数字开始了这艘船。</color>
+
+
+C=C
+Leader=领导者
+
+Casualties (x1): -20%=伤亡（x1）：-20％
+Engine part (x2) : $55\nPlastic fish : $30\nDog toy (x3) : $130\nMetal sheet (x3) : $110=发动机部分（x2）：$ 55塑料鱼：$ 30狗玩具（x3）：$ 130金属纸（x3）：$ 110
+Bubblegum=泡泡糖
+z3=Z3
+
+[MODDED]nice guy's Crew=[MODDED]nice guy's Crew
+Esan Crew=Esan Crew
+BBC lovers=BBC lovers
+Brack people=Brack people
+im hungry=im hungry
+Late Join Welcome=Late Join Welcome
+pouya Crew=pouya Crew
+Im sorry's Crew=Im sorry's Crew
+V0idMatr1x_'s Crew=V0idMatr1x_'s Crew
+snowfoxx7835's Crew=snowfoxx7835's Crew
+4 jetpacks and a dream=4个喷气背包和一个梦
+OP ITEMS  TITAN ONLY=仅OP项目泰坦
+Cthulhu=克苏鲁
+restart poter haha ggdire=重新启动POTER HAHA GGDIRE
+Phosphor's Crew=磷船的船员
+Titan/Dine Fresh=泰坦/用餐新鲜
+High asf=高ASF
+Boykisser Company=Boykisser Company
+experienced=有经验的
+AntRedMan's Crew=安特雷德曼的船员
+Astoria peeps=Astoria窥视
+nightmare dificulty =噩梦 
+Time to scrap=是时候报废了
+Happy Tree Friends=快乐的树朋友
+Sped class=SPED课
+Atistio's Salvage Co=atistio的打捞公司
+2 numba 9's=2 numba 9的
+The Butt Crew=屁股船员
+Grabin bootay=抓取Bootay
+[MODDED]You're Hired=[修改]你被录制
+infinite money glitch :O=无限的钱小故障：o
+Joubbi joe mama=Joubbi Joe Mama
+Embezzlement?=挪用公款？
+Get in Get rich=富裕
+Lordkaiser's Crew=Lordkaiser的船员
+saber's Crew=军刀的船员
+[MODDED]ЛЮДИ ЗАЙДИТЕ=[修改] emÖзздите
+La France aux Français=法国辅助Français
+GET RICH OR DIE TRYING=致富或死尝试
+[MODDED]Goth Girls Only=[改装]只有哥特女孩
+fun=乐趣
+ESPAÑA Crew=España船员
+españoles=españoles
+Brutal Company=残酷的公司
+Okul Cocuklari=Okul Cocuklari
+[Weyland-Yutani] (HUN)=[Weyland-Yutani]（Hun）
+CZ/SK =CZ/SK 
+goats=山羊
+0 lb=0磅
+
+\n<color\=#ffffff>NumberOne joined the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>
+
+Casualties (x1): -20%=伤亡（x1）：-20％
+
+
+Engine part (x2) : $55\nPlastic fish : $30\nDog toy (x3) : $130\nMetal sheet (x3) : $110=发动机部分（x2）：$ 55塑料鱼：$ 30狗玩具（x3）：$ 130金属纸（x3）：$ 110
+
+
+NumberOne=NumberOne
+kokumba=Kokumba
+
+
+Crazydude12=CrazyDude12
+
+
+
+Blep2=Blep2
+
+
+
+
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#FF0000>VitaminBBC</color>: <color\=#FFFF00>'hello'</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#FF0000>维生素BBC</color>: <color\=#FFFF00>'你好'</color>
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#FF0000>VitaminBBC</color>: <color\=#FFFF00>'hello'</color>\n<color\=#FF0000>kokumba</color>: <color\=#FFFF00>'got a mic?'</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#FF0000>维生素BBC</color>: <color\=#FFFF00>'你好'</color>\n<color\=#FF0000>Kokumba</color>: <color\=#FFFF00>“有麦克风？”</color>
+Close door : [E]=关门：[E]
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#FF0000>维生素BBC</color>: <color\=#FFFF00>'你好'</color>\n<color\=#FF0000>Kokumba</color>: <color\=#FFFF00>“有麦克风？”</color>\n<color\=#FF0000>VitaminBBC</color>: <color\=#FFFF00>'mic?'</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#FF0000>维生素BBC</color>: <color\=#FFFF00>'你好'</color>\n<color\=#FF0000>Kokumba</color>: <color\=#FFFF00>“有麦克风？”</color>\n<color\=#FF0000>维生素BBC</color>: <color\=#FFFF00>``麦克风？''</color>
+Typing...=打字...
+\n<color\=#FF0000>维生素BBC</color>: <color\=#FFFF00>'你好'</color>\n<color\=#FF0000>Kokumba</color>: <color\=#FFFF00>“有麦克风？”</color>\n<color\=#FF0000>维生素BBC</color>: <color\=#FFFF00>``麦克风？''</color>\n<color\=#FF0000>NumberOne</color>: <color\=#FFFF00>'no'</color>=\n<color\=#FF0000>维生素BBC</color>: <color\=#FFFF00>'你好'</color>\n<color\=#FF0000>Kokumba</color>: <color\=#FFFF00>“有麦克风？”</color>\n<color\=#FF0000>维生素BBC</color>: <color\=#FFFF00>``麦克风？''</color>\n<color\=#FF0000>第一</color>: <color\=#FFFF00>'不'</color>
+
+
+
+
+
+v0=v0
+j6=J6
+m9=m9
+c1=c1
+k9=k9
+z3=z3
+
+
+
+
+
+
+Sium's Crew=Sium的船员
+WhiteShabobo's Crew=Whiteshabobo的船员
+Apric0t's Crew=杏子的船员
+dacee_=dacee_
+[modded] ghost busters=[改装]鬼克星
+BETTER SERVER=更好的服务器
+Lethal CumPanty's=致命的笨蛋
+ShockwaveTheOnly's Crew=ShockwaveTheonly的船员
+Calus checkpoint=CALUS检查点
+Deathstar=死星
+poop sock galactic=大便袜子银河
+Donut365's Crew=Donut365的船员
+Experienced players only (leader+)=只有经验丰富的球员（领导者+）
+Minimum Wage=最低工资
+FiveM=Fivem
+join for black tomboy?=加入黑色假小子？
+Skulker's Crew=Skulker的船员
+squishys =镇压 
+Plan B=计划b
+Big Boss's Crew=大老板的船员
+Yerr=是的
+bingo's Crew=宾果游戏的船员
+Reckless derp's Crew=鲁less derp的船员
+o Eldritch o's Crew=O Eldritch O的船员
+day 9 378 quota=第9天378配额
+Legit coziest ship out there, come seeit=合法舒适的船，来看看
+Tinder LVL10=Tinder LVL10
+Vinyl Iris's Crew=乙烯基艾里斯的船员
+GekY's Crew=Geky的船员
+women only=只有女人
+Idiots Welcome=欢迎白痴
+veve world=veve世界
+new players only pls!! :3 uwu=新玩家只会好！\n：3 UWU
+The Hole=洞
+Smooth brains=光滑的大脑
+9Nura's Crew=9nura的船员
+Noob friendly =菜鸟友好 
+hi=hi
+Among us=Among us
+Serenadezzz's Crew=Serenadezzz's Crew
+New Crew - New Player Host=New Crew - New Player Host
+Vis0r13's Crew=Vis0r13's Crew
+QC Français=QCFrançais
+I'm so lost=I'm so lost
+[MODDED]goblin bibi's Crew=[MODDED]goblin bibi's Crew
+ONLY SPANISH SPEAKERS=ONLY SPANISH SPEAKERS
+Sort: far=排序：远
+Sort: near=排序：靠近
+
+My game, ig=我的游戏，IG
+Hello please stop leaving mid game=你好，请停止离开比赛
+Siege =围城 
+Working for amazon prime=为亚马逊Prime工作
+new=新的
+boto=博托
+whats going on=这是怎么回事
+BreadAB's Crew=Breadab的船员
+experienbced=有经验的
+noobs=菜鸟
+spacexaeronauticalcorps's Crew=SpaceXaeronauticalCorps的工作人员
+pancake's Crew=煎饼的船员
+Simpxiii's Crew=Simpxiii的船员
+Jas=贾斯
+reasonably=合理
+faggots united=联队联合会
+God run=上帝奔跑
+silly pp=愚蠢的pp
+
+New Players=新玩家
+JoeLorenzo's Crew=Joelorenzo的船员
+JewelsHearts=珠宝心
+plznostepbro=plznostepbro
+Whysomanyderps=Whysomanyderps
+messages from the stars=来自星星的消息
+FOR THE COMPANY=为公司
+This one Crew=这个船员
+BIG DADDY JEW=大爸爸犹太人
+[MODDED]NEED MODDER HELP=[修改]需要Modder帮助
+yourstepdad's Crew=您的船员
+Bugged Server=服务器错误
+killawattds2's Crew=Killawattds2的船员
+butt stuff=屁股的东西
+MistyRini's Crew=Mistyrini的船员
+Toast Adventures=吐司冒险
+Montesquiieu ttv's Crew=蒙特奎乌电视台的船员
+
+racist only=仅种族主义者
+Fox_ov_Wisdom's Crew=fox_ov_wisdom的船员
+FSC=FSC
+NORMAL GAME NORMAL PEOPLE=普通游戏普通人
+big black Crew=大黑色船员
+hydratedspartan's Crew=水合斯帕坦的船员
+An error occured!=发生错误！
+Basement Bros=地下室兄弟
+4 easter eggs filled with mung beans=4个复活节彩蛋，里面装满了绿豆
+runing titan and dine=泰坦和用餐
+MrBoiDaGreat's Crew=诺伊达·格雷斯（Noida Great）的船员
+Leaf Lovers=叶爱好者
+join if funny=如果有趣的话，加入
+GlizzyGulpers=洋G
+Mongoloid=蒙古
+Im an admin join=我是管理员加入
+Good Knowlage at game=游戏中的知识很好
+alexanderzuniga45's Crew=Alexanderzuniga45的船员
+na hee=na hee
+$30\nDays: 0=$ 30\n天：0
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>上菜的厨子 joined the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>上菜的加入了船。</color>
+
+
+
+aiden=艾登
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>上菜的加入了船。</color>\n<color\=#ffffff>aiden joined the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>上菜的加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>
+
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>上菜的加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>摆子 joined the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>上菜的加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>摆子加入了船。</color>
+
+f2=F2
+y9=Y9
+t2=T2
+l0=L0
+o5=O5
+
+
+
+\n<color\=#ffffff>上菜的加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>摆子加入了船。</color>\n<color\=#ffffff>上菜的厨子 started the ship.</color>=\n<color\=#ffffff>上菜的加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>摆子加入了船。</color>\n<color\=#ffffff>上菜的厨子开始了这艘船。</color>
+
+S=S
+10 EXP=10 EXP
+
+
+c2=C2
+u9=U9
+r2=R2
+
+
+
+
+
+
+
+
+
+
+13 EXP=13 EXP
+16 EXP=16 EXP
+x8=x8
+i1=I1
+
+MONITORING: NumberOne=监视：NumberOne
+MONITORING: 上菜的厨子=监视：上菜的厨子
+
+
+
+
+
+
+
+
+
+
+
+V-type engine (x1) : 45 \nLarge axle (x1) : 55 \nBig bolt (x1) : 26 \n=V型引擎（X1）：45大号轴承（x1）：55大型螺栓（x1）：26 \n
+
+
+V-type engine (x1) : 49 \nMetal sheet (x5) : 75 \nBig bolt (x1) : 26 \n=V型引擎（X1）：49金属板（X5）：75大型螺栓（x1）：26 \n
+
+
+Dust pan (x1) : 19 \nPlastic fish (x1) : 36 \nKey (x1) : 3 \n=防尘盘（x1）：19塑料鱼（x1）：36键（x1）：3 \n
+PROFIT QUOTA:\n$411 / $130=利润配额：$ 411 / $ 130
+
+
+
+
+
+
+
+
+
+
+
+
+\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>摆子加入了船。</color>\n<color\=#ffffff>上菜的厨子登上了这艘船。</color>\n<color\=#ffffff>摆子0 started the ship.</color>=\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>摆子加入了船。</color>\n<color\=#ffffff>上菜的厨子开始了这艘船。</color>\n<color\=#ffffff>摆子0开始了这艘船。</color>
+
+
+
+m6=M6
+r4=R4
+
+
+D=d
+
+MONITORING: 摆子0=监视：摆子0
+\n<color\=#ffffff>摆子加入了船。</color>\n<color\=#ffffff>上菜的厨子开始了这艘船。</color>\n<color\=#ffffff>摆子0开始了这艘船。</color>\n<color\=#ffffff>NumberOne started the ship.</color>=\n<color\=#ffffff>摆子加入了船。</color>\n<color\=#ffffff>上菜的厨子开始了这艘船。</color>\n<color\=#ffffff>摆子0开始了这艘船。</color>\n<color\=#ffffff>NumberOne开始了这艘船。</color>
+2:46\nPM=2:46\nPM
+DUE: $60=到期：60美元
+3 casualties: -0%\n(3 bodies recovered)=3伤亡：-0％（治疗了3位员工）
+Orbiting: 220 Assurance\nPOPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: Ecosystem supports territorial behaviour.\n=绕：220 Assurance\n：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在具有领地意识的生物。\n
+Random seed: 31491658=随机种子：31491658
+u2=U2
+c7=C7
+
+(1/1 Votes)=（1/1票）
+PILOT COMPUTER=飞行器计算机
+
+
+
+
+
+\n<color\=#ffffff>NumberOne started the ship.</color>\n<color\=#ffffff>NumberOne was left behind.</color>\n<color\=#ffffff>上菜的厨子 was left behind.</color>\n<color\=#ffffff>摆子0 was left behind.</color>=\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>NumberOne被抛下。</color>\n<color\=#ffffff>上菜上菜被抛下。</color>\n<color\=#ffffff>摆子0留在后面。</color>
+
+F=F
+8 EXP=8 exp
+DUE: $132=到期：$ 132
+4 casualties: -80%\n(0 bodies recovered)=4人伤亡：-80％（治疗了0位员工）
+
+p1=P1
+h5=H5
+
+
+
+
+
+
+
+
+
+
+
+
+
+A=A
+17 EXP=17 EXP
+
+
+
+Large axle (x2) : 80 \nV-type engine (x1) : 30 \nBottles (x1) : 54 \nDust pan (x1) : 28 \nMetal sheet (x1) : 16 \n=大号轴承（x2）：80 V型发动机（x1）：30瓶（x1）：54防尘盘（x1）：28金属板（x1）：16 \n
+
+
+Apparatus (x1) : 80 \nFlashlight (x1) : 0 \n=设备（x1）：80手电筒（x1）：0 \n
+
+DUE: $61=到期：61美元
+1 casualties: -20%\n(0 bodies recovered)=1人伤亡：-20％（恢复0个尸体）
+Overtime bonus: $0=加班奖金：$ 0
+
+
+笔记： *最懒惰的员工。\n* Sustained the most injuries.\n=笔记： *最懒惰员工 *受伤次数最多。\n
+笔记： \n* The most paranoid employee.\n* Most profitable\n=笔记： *最偏执的员工。\n*获利最多\n
+Part-timer=兼职人员
+26 EXP=26 Exp
+
+b3=B3
+
+Value: $50=价值：$ 50
+笔记： \n* Sustained the most injuries.\n=笔记： *受伤次数最多。\n
+27 EXP=27 Exp
+DUE: $40=到期：40美元
+2 casualties: -40%\n(0 bodies recovered)=2个伤亡：-40％（恢复0尸体）
+Orbiting: 41 Experimentation\nPOPULATION: Abandoned\nCONDITIONS: Arid. Thick haze, worsened by industrial artifacts.\nFAUNA: Dominated by a few species.\nWeather: Stormy=轨道：41 Experimentation\n人口：已废弃\n环境：干旱。\n雾霾严重，因工业遗址而恶化。\n动物群系：以几种物种为主。\n天气：暴风雨
+
+
+
+4:42\nPM=4:42\nPM
+5:20\nPM=5:20\nPM
+5:37\nPM=5:37\nPM
+5:54\nPM=5:54\nPM
+5:58\nPM=5:58\nPM
+(0/2 Votes)=（0/2票）
+(Spectating: 上菜的厨子)=（观察：上菜厨子）
+6:11\nPM=6:11\nPM
+6:15\nPM=6:15\nPM
+6:32\nPM=6:32\nPM
+Value: $90=价值：$ 90
+
+C=C
+24 EXP=24 Exp
+DUE: $24=到期：$ 24
+Random seed: 15342688=随机种子：15342688
+Large axle (x4) : 199 \nV-type engine (x2) : 88 \nPlastic fish (x1) : 36 \nCookie mold pan (x1) : 14 \nBig bolt (x1) : 21 \nHive (x1) : 90 \nMetal sheet (x2) : 23 \n=大号轴承（X4）：199 V型发动机（X2）：88塑料鱼（x1）：36 Cookie Mold Pan（X1）：14大型螺栓（x1）：21 Hive（x1）：90金属板（x2）：\n23 \n
+TOTAL: $471=总计：$ 471
+PROFIT QUOTA:\n$471 / $330=利润配额：$ 471 / $ 330
+PROFIT QUOTA:\n$507 / $330=利润配额：$ 507 / $ 330
+TOTAL: $36=总计：$ 36
+Large axle (x1) : 36 \n=大号轴承（x1）：36 \n
+
+
+Overtime bonus: $20=加班奖金：20美元
+PROFIT QUOTA:\n$0 / $494=利润配额：$ 0 / $ 494
+Orbiting: 41 Experimentation\nPOPULATION: Abandoned\nCONDITIONS: Arid. Thick haze, worsened by industrial artifacts.\nFAUNA: Dominated by a few species.\nWeather: Eclipsed=轨道：41 Experimentation\n人口：已废弃\n环境：干旱。\n雾霾严重，因工业遗址而恶化。\n动物群系：以几种物种为主。\n天气：日食
+Random seed: 74959326=随机种子：74959326
+
+Random seed: 76034538=随机种子：76034538
+37 lb=37磅
+40 lb=40磅
+3:41\nPM=3:41\nPM
+3:58\nPM=3:58\nPM
+4:53\nPM=4:53\nPM
+5:31\nPM=5:31\nPM
+5:48\nPM=5:48\nPM
+6:09\nPM=6:09\nPM
+6:13\nPM=6:13\nPM
+Value: $44=价值：$ 44
+6:17\nPM=6:17\nPM
+6:26\nPM=6:26\nPM
+6:30\nPM=6:30\nPM
+6:34\nPM=6:34\nPM
+6:43\nPM=6:43\nPM
+6:47\nPM=6:47\nPM
+6:51\nPM=6:51\nPM
+Value: $22=价值：$ 22
+6:55\nPM=6:55\nPM
+7:00\nPM=7:00\nPM
+7:04\nPM=7:04\nPM
+Value: $15=价值：$ 15
+7:08\nPM=7:08\nPM
+7:12\nPM=7:12\nPM
+7:21\nPM=7:21\nPM
+7:25\nPM=7:25\nPM
+7:29\nPM=7:29\nPM
+7:38\nPM=7:38\nPM
+7:42\nPM=7:42\nPM
+7:46\nPM=7:46\nPM
+7:50\nPM=7:50\nPM
+7:55\nPM=7:55\nPM
+7:59\nPM=7:59\nPM
+8:03\nPM=8:03\nPM
+8:07\nPM=8:07\nPM
+8:16\nPM=8:16\nPM
+8:20\nPM=8:20\nPM
+8:24\nPM=8:24\nPM
+8:28\nPM=8:28\nPM
+8:33\nPM=8:33\nPM
+8:37\nPM=8:37\nPM
+8:41\nPM=8:41\nPM
+8:45\nPM=8:45\nPM
+8:50\nPM=8:50\nPM
+8:54\nPM=8:54\nPM
+8:58\nPM=8:58\nPM
+9:02\nPM=9:02\nPM
+9:07\nPM=9:07\nPM
+9:11\nPM=9:11\nPM
+9:15\nPM=9:15\nPM
+9:19\nPM=9:19\nPM
+9:23\nPM=9:23\nPM
+9:28\nPM=9:28\nPM
+9:32\nPM=9:32\nPM
+9:36\nPM=9:36\nPM
+9:40\nPM=9:40\nPM
+9:45\nPM=9:45\nPM
+9:49\nPM=9:49\nPM
+9:53\nPM=9:53\nPM
+9:57\nPM=9:57\nPM
+10:01\nPM=10:01\nPM
+10:06\nPM=10:06\nPM
+10:10\nPM=10:10\nPM
+10:14\nPM=10:14\nPM
+10:18\nPM=10:18\nPM
+10:23\nPM=10:23\nPM
+10:27\nPM=10:27\nPM
+10:31\nPM=10:31\nPM
+10:35\nPM=10:35\nPM
+10:40\nPM=10:40\nPM
+10:44\nPM=10:44\nPM
+10:48\nPM=10:48\nPM
+10:52\nPM=10:52\nPM
+10:57\nPM=10:57\nPM
+11:01\nPM=11:01\nPM
+11:05\nPM=11:05\nPM
+11:09\nPM=11:09\nPM
+11:13\nPM=11:13\nPM
+11:18\nPM=11:18\nPM
+11:22\nPM=11:22\nPM
+11:26\nPM=11:26\nPM
+11:30\nPM=11:30\nPM
+11:35\nPM=11:35\nPM
+29 EXP=29 Exp
+DUE: $9=到期：9美元
+2 casualties: -20%\n(1 bodies recovered)=2个伤亡：-20％（恢复1个尸体）
+Random seed: 74181912=随机种子：74181912
+Value: $46=价值：$ 46
+
+3:13\nPM=3:13\nPM
+3:30\nPM=3:30\nPM
+4:08\nPM=4:08\nPM
+4:25\nPM=4:25\nPM
+5:03\nPM=5:03\nPM
+5:24\nPM=5:24\nPM
+5:41\nPM=5:41\nPM
+6:19\nPM=6:19\nPM
+6:36\nPM=6:36\nPM
+6:49\nPM=6:49\nPM
+6:53\nPM=6:53\nPM
+7:06\nPM=7:06\nPM
+7:10\nPM=7:10\nPM
+7:23\nPM=7:23\nPM
+7:27\nPM=7:27\nPM
+7:32\nPM=7:32\nPM
+7:36\nPM=7:36\nPM
+7:40\nPM=7:40\nPM
+7:44\nPM=7:44\nPM
+7:48\nPM=7:48\nPM
+7:53\nPM=7:53\nPM
+7:57\nPM=7:57\nPM
+8:01\nPM=8:01\nPM
+8:05\nPM=8:05\nPM
+8:10\nPM=8:10\nPM
+8:14\nPM=8:14\nPM
+8:18\nPM=8:18\nPM
+8:22\nPM=8:22\nPM
+8:27\nPM=8:27\nPM
+11 lb=11磅
+8:31\nPM=8:31\nPM
+8:35\nPM=8:35\nPM
+8:39\nPM=8:39\nPM
+8:43\nPM=8:43\nPM
+8:48\nPM=8:48\nPM
+8:52\nPM=8:52\nPM
+8:56\nPM=8:56\nPM
+9:00\nPM=9:00\nPM
+9:05\nPM=9:05\nPM
+9:09\nPM=9:09\nPM
+(0/1 Votes)=（0/1票）
+9:13\nPM=9:13\nPM
+9:17\nPM=9:17\nPM
+9:22\nPM=9:22\nPM
+9:26\nPM=9:26\nPM
+9:30\nPM=9:30\nPM
+9:34\nPM=9:34\nPM
+9:39\nPM=9:39\nPM
+9:43\nPM=9:43\nPM
+9:47\nPM=9:47\nPM
+9:51\nPM=9:51\nPM
+9:55\nPM=9:55\nPM
+10:00\nPM=10:00\nPM
+10:04\nPM=10:04\nPM
+10:08\nPM=10:08\nPM
+
+10:12\nPM=10:12\nPM
+10:17\nPM=10:17\nPM
+10:21\nPM=10:21\nPM
+(Spectating: aiden)=（观察：艾登）
+10:25\nPM=10:25\nPM
+10:29\nPM=10:29\nPM
+10:34\nPM=10:34\nPM
+10:38\nPM=10:38\nPM
+10:42\nPM=10:42\nPM
+10:46\nPM=10:46\nPM
+10:50\nPM=10:50\nPM
+10:55\nPM=10:55\nPM
+10:59\nPM=10:59\nPM
+11:03\nPM=11:03\nPM
+11:07\nPM=11:07\nPM
+11:12\nPM=11:12\nPM
+11:16\nPM=11:16\nPM
+11:20\nPM=11:20\nPM
+11:24\nPM=11:24\nPM
+11:28\nPM=11:28\nPM
+11:33\nPM=11:33\nPM
+11:37\nPM=11:37\nPM
+11:41\nPM=11:41\nPM
+11:45\nPM=11:45\nPM
+11:50\nPM=11:50\nPM
+11:54\nPM=11:54\nPM
+11:58\nPM=11:58\nPM
+12:00 \n AM=12:00\nAM
+\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>摆子0留在后面。</color>\n<color\=#FF0000>第一</color>: <color\=#FFFF00>'9-784'</color>\n<color\=#ffffff>aiden disconnected.</color>=\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>摆子0留在后面。</color>\n<color\=#FF0000>第一</color>: <color\=#FFFF00>'9-784'</color>\n<color\=#ffffff>艾登断开了连接。</color>
+21 EXP=21 Exp
+DUE: $15=到期：15美元
+3 casualties: -60%\n(0 bodies recovered)=3伤亡：-60％（恢复0个尸体）
+WAIT!=等待！
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=您还剩0天的时间来满足配额。\n使用控制终端前往公司并出售。
+Random seed: 45785560=随机种子：45785560
+19 lb=19磅
+(Spectating: 摆子0)=（观察：摆子0）
+Value: $51=价值：$ 51
+Value: $17=价值：$ 17
+18 EXP=18 exp
+DUE: $4=到期：$ 4
+Stats=统计
+Days on the job: 16\nScrap value collected: 1206\nDeaths: 20\nSteps taken: 234739=工作日：收集的16个报废价值：1206死亡：20步：234739
+\n<color\=#ffffff>艾登断开了连接。</color>\n<color\=#ffffff>上菜上菜被抛下。</color>\n<color\=#ffffff>摆子0开始了这艘船。</color>\n<color\=#ffffff>摆子0 disconnected.</color>=\n<color\=#ffffff>艾登断开了连接。</color>\n<color\=#ffffff>上菜上菜被抛下。</color>\n<color\=#ffffff>摆子0开始了这艘船。</color>\n<color\=#ffffff>摆子0断开连接。</color>
+$60\nDays: 0=$ 60\n天：0
+Random seed: 88735675=随机种子：88735675
+
+
+笔记： \n* The most paranoid employee.\n=笔记： *最偏执的员工。\n
+Random seed: 31005152=随机种子：31005152
+
+
+89 lb=89磅
+
+Value: $82=价值：$ 82
+
+Value: $53=价值：$ 53
+7:13\nPM=7:13\nPM
+Value: $40=价值：$ 40
+7:30\nPM=7:30\nPM
+7:35\nPM=7:35\nPM
+7:39\nPM=7:39\nPM
+Value: $48=价值：$ 48
+7:43\nPM=7:43\nPM
+7:47\nPM=7:47\nPM
+7:52\nPM=7:52\nPM
+7:56\nPM=7:56\nPM
+8:00\nPM=8:00\nPM
+8:04\nPM=8:04\nPM
+8:09\nPM=8:09\nPM
+8:13\nPM=8:13\nPM
+8:17\nPM=8:17\nPM
+8:21\nPM=8:21\nPM
+8:25\nPM=8:25\nPM
+
+8:30\nPM=8:30\nPM
+8:34\nPM=8:34\nPM
+8:38\nPM=8:38\nPM
+8:42\nPM=8:42\nPM
+笔记： *最偏执的员工。\n* Most profitable\n=笔记： *最最的 * *最有利可图\n
+Random seed: 21318361=随机种子：21318361
+d6=D6
+Value: $37=价值：$ 37
+24 lb=24磅
+Value: $47=价值：$ 47
+Value: $18=价值：18美元
+笔记： *最偏执的员工。\n* Sustained the most injuries.\n* Most profitable\n=笔记： *最偏执员工 *受伤次数最多。\n*获利最多\n
+34 EXP=34 Exp
+Random seed: 81828090=随机种子：81828090
+PROFIT QUOTA:\n$245 / $130=利润配额：$ 245 / $ 130
+TOTAL: $245=总计：$ 245
+V-type engine (x2) : 82 \nLarge axle (x1) : 46 \nBottles (x1) : 52 \nMetal sheet (x1) : 18 \nBig bolt (x2) : 47 \nKey (x2) : 6 \n=V型发动机（X2）：82大号轴承（x1）：46瓶（x1）：52金属板（x1）：18大型螺栓（x2）：47键（x2）：6 \n
+PROFIT QUOTA:\n$293 / $130=利润配额：$ 293 / $ 130
+TOTAL: $48=总计：$ 48
+Large axle (x1) : 48 \n=大号轴承（x1）：48 \n
+
+
+
+Overtime bonus: $17=加班奖金：17美元
+PROFIT QUOTA:\n$0 / $233=利润配额：$ 0 / $ 233
+Random seed: 91844994=随机种子：91844994
+
+
+
+
+43 lb=43磅
+
+
+
+
+39 EXP=39 Exp
+DUE: $1=到期：$ 1
+Random seed: 83864615=随机种子：83864615
+
+
+Value: $24=价值：$ 24
+
+
+笔记： *最偏执的员工。\n* Sustained the most injuries.\n=笔记： *最偏执员工 *受伤次数最多。\n
+笔记： *最懒惰的员工。\n* Most profitable\n=笔记： *最最的 * *最有利可图\n
+42 EXP=42 Exp
+DUE: $3=到期：3美元
+Random seed: 82725640=随机种子：82725640
+DUE: $0=到期：$ 0
+Random seed: 8098910=随机种子：8098910
+NumberOne collected!=收集了NumberOne！
+
+笔记： *最偏执员工 *受伤次数最多。\n* Most profitable\n=笔记： *最偏执 * *受伤次数最多 * *最有利可图\n
+3 casualties: -40%\n(1 bodies recovered)=3伤亡：-40％（恢复1个尸体）
+Days on the job: 8\nScrap value collected: 293\nDeaths: 10\nSteps taken: 88059=工作天：收集8个废料值：293死亡：10步：88059
+Random seed: 44749013=随机种子：44749013
+
+56 lb=56磅
+Steering wheel=方向盘
+Random seed: 42447967=随机种子：42447967
+Value: $29=价值：$ 29
+Value: $31=价值：$ 31
+笔记： *最懒惰的员工。\n* The most paranoid employee.\n* Sustained the most injuries.\n=笔记： *最懒惰员工 * *最偏执的员工。\n*受伤次数最多。\n
+49 EXP=49 Exp
+Random seed: 39761789=随机种子：39761789
+3:20\nPM=3:20\nPM
+4:32\nPM=4:32\nPM
+笔记： *最懒惰的员工。\n* The most paranoid employee.\n* Most profitable\n=笔记： *最懒惰员工 * *最偏执的员工。\n*获利最多\n
+55 EXP=55 Exp
+DUE: $2=到期：$ 2
+Random seed: 89589663=随机种子：89589663
+TOTAL: $394=总计：$ 394
+Apparatus (x2) : 160 \nLarge axle (x3) : 136 \nSteering wheel (x2) : 52 \nV-type engine (x1) : 31 \nMetal sheet (x1) : 15 \n=设备（x2）：160大号轴承（x3）：136方向盘（x2）：52 V型发动机（x1）：31金属板（x1）：15 \n
+PROFIT QUOTA:\n$394 / $130=利润配额：$ 394 / $ 130
+TOTAL: $298=总计：$ 298
+V-type engine (x3) : 143 \nSteering wheel (x1) : 28 \nBig bolt (x1) : 30 \nPlastic fish (x1) : 29 \nDust pan (x1) : 30 \nLarge axle (x1) : 38 \n=V型发动机（X3）：143方向盘（x1）：28大型螺栓（x1）：30塑料鱼（x1）：29防尘锅（x1）：30大号轴承（x1）：38 \n
+PROFIT QUOTA:\n$692 / $130=利润配额：$ 692 / $ 130
+
+
+
+
+
+TOTAL: $5=总计：5美元
+Body (x1) : 5 \n=身体（x1）：5 \n
+PROFIT QUOTA:\n$697 / $130=利润配额：$ 697 / $ 130
+\n<color\=#ffffff>上菜的厨子开始了这艘船。</color>\n<color\=#FF0000>第一</color>: <color\=#FFFF00>'12-833'</color>\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>aiden started the ship.</color>=\n<color\=#ffffff>上菜的厨子开始了这艘船。</color>\n<color\=#FF0000>第一</color>: <color\=#FFFF00>'12-833'</color>\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>艾登开始了这艘船。</color>
+DUE: $16=到期：16美元
+Overtime bonus: $98=加班奖金：$ 98
+PROFIT QUOTA:\n$0 / $228=利润配额：$ 0 / $ 228
+Random seed: 52763914=随机种子：52763914
+\n<color\=#FF0000>第一</color>: <color\=#FFFF00>'12-833'</color>\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>艾登开始了这艘船。</color>\n<color\=#ffffff>上菜的厨子 disconnected.</color>=\n<color\=#FF0000>第一</color>: <color\=#FFFF00>'12-833'</color>\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>艾登开始了这艘船。</color>\n<color\=#ffffff>断开连接。</color>
+$163\nDays: 5=$ 163\n天：5
+PUBLIC means your game will be visible on the server list for all to see.=公众意味着您的游戏将在服务器列表中可见，以供所有人查看。
+(Cannot hold until ship has landed)=（请等待主机开始游戏）
+
+333fk=333fk
+ROVO's Crew=Rovo的船员
+TK's Crew=TK的船员
+i am new Crew=我是新船员
+SINTAMA's Crew=Sintama的船员
+spooky dave's dungeon=怪异的戴夫的地牢
+SCRAP SCRAP SCRAP SCRAP =废品废料废料废料 
+uh.. hehe=嗯..呵呵
+Hot Femboy=热女性
+Rgbunpro's crew=rgbunpro的船员
+I Have No Mic And I Must Scream=我没有麦克风，我必须尖叫
+[MODDED]Michealishous=[修改] Michealishous
+englis talkin sbeaking=Englis Talkin Sbeaking
+We do it for the company!=我们为公司做！
+Only Gyatts Please=请只有Gyatt
+nanditodorito03's Crew=Nanditodorito03的船员
+1stDue's Crew=1stdue的船员
+boop=嘘声
+Not This One=不是这个
+ HAVE FUN BUT PLAY THE GAME= 玩得开心，但玩游戏
+Bobby Flay's Crew=鲍比·弗莱（Bobby Flay）的船员
+Australia Simulator 2023 =澳大利亚模拟器2023 
+CACAMIEL QC FR=卡卡米尔QC fr
+arabs=阿拉伯人
+Boss only company=唯一的公司
+[FR] Seulement +18 =[fr]夺取+18 
+(fr) allez la=（fr）Allez la
+[MODDED]francais only=[修改]仅Francais
+THE KID's Crew=孩子的船员
+[MODDED][RU] leader+=[修改] [ru]领导者+
+Senju55's Crew=Senju55的船员
+boy kissers =男孩亲吻者 
+Mr. TV Purple's Crew=电视紫色的船员
+PL spocuchy =PL Spocuchy 
+portugues=葡萄牙
+[MODDED]КТО ЛИВНЕТ ТОТ П*Д*Р(18+)=[MODDED]生勘测
+Da Crew=DA CREW
+homosh=人
+Türk gelsin amk=TürkGelsinamk
+Turkish=土耳其
+ENGLISH=英语
+[MODDED][MEX] Mi primera chamba.=[改装] [Mex] Mi Primera Chamba。
+ arg con mic= arg con mic
+BR PS META QUASE IMPOSSIVEL=br ps meta quase Issubsivel
+JOIN ONLY IF YOU'VE DONE TITAN.=仅当您完成泰坦时才加入。
+German 1. Tag=德语1.标签
+For new players or any also mr duck=对于新球员或任何鸭子先生
+Only scared B** allowed ENG =只害怕b **允许Eng 
+KLK [FR]=KLK [fr]
+Dutch Negers=荷兰人负
+C3 m7md's Crew=C3 M7MD的船员
+Ask3lad's Crew=Ask3Lad的船员
+Join If Gay=加入同性恋
+Small PP's only=唯一的小PP
+[MODDED]Paco modded fun=[改装] Paco改装乐趣
+soukman23's Crew=Soukman23的船员
+day 9. grinding to titan=第9天。
+Titan=泰坦
+Jimmy Neutron's Crew=吉米中子的船员
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2/3 Votes)=（2/3票）
+
+
+
+
+
+
+
+Bubblegum=泡泡糖
+TOTAL: [to]=总计：[to]
+DUE: $200=目标：200美元
+Value: $258=余额：$ 258
+
+
+
+
+Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=注意： *最懒惰的员工 *最偏执的员工 *受伤次数最多
+
+
+
+
+
+
+
+
+
+Random seed: 65738031=随机种子：65738031
+
+
+7:39\nAM=7:39\nAM
+[Wait for ship to land]=[等待飞船起飞]
+
+POPULATION: Abandoned\nCONDITIONS: Arid. Thick haze, worsened by industrial artifacts.\nFAUNA: Dominated by a few species.=人口：被遗弃的\n环境：干旱。\n雾霾严重，因工业遗址而恶化。\n动物群系：以少数物种为主。
+
+
+B=B
+PROFIT QUOTA:\n$0 / $130=利润配额：$ 0 / $ 130
+PROFIT QUOTA:\n$0 / $379=利润配额：$ 0 / $ 379
+PROFIT QUOTA:\n$208 / $212=利润配额：$ 208 / $ 212
+PROFIT QUOTA:\n$288 / $212=利润配额：$ 288 / $ 212
+PROFIT QUOTA:\n$0 / $330=利润配额：$ 0 / $ 330
+PROFIT QUOTA:\n$276 / $130=当前出售：$ 276\n目标金额： $ 130
+PROFIT QUOTA:\n$331 / $130=当前出售：$ 331\n目标金额： $ 130
+
+Random seed: 32918174=随机种子：32918174
+Igor=Igor
+Blue=Blue
+
+Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.\n=注意： *最懒惰的员工。\n*最偏执的员工。\n*受伤次数最多。\n
+
+TO MEET PROFIT QUOTA=达成目标金额
+
+Autosaving...=自动保存中...
+
+笔记： \n* The laziest employee.\n=笔记： *最懒惰的员工。\n
+笔记： \n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable\n=笔记： *最偏执的员工。\n*受伤次数最多。\n*获利最多\n
+
+Apparatus (x1) : 80 \n=设备（x1）：80 \n
+Flashlight (x1) : 0 \n=手电筒（x1）：0 \n
+
+TOTAL: $0=总计：$ 0
+TOTAL: $55=总计：$ 55
+TOTAL: $80=总计：$ 80
+TOTAL: $126=总计：$ 126
+TOTAL: $150=总计：$ 150
+TOTAL: $208=总计：$ 208
+TOTAL: =总计：
+
+Found journal entry: 'Sound behind the wall - Sep 4=找到日记条目：“墙后的声音 -  9月4日
+Found journal entry: 'Smells here! - Aug 24=找到日记条目：“在这里闻到！\n -  8月24日
+
+(Some were too far to receive your message.)=（太远的人无法接收您的消息。）$403\nDays: 9=$ 403\n天：9
+$60\nDays: 1=$ 60\n天：1
+Value: $43=价值：$ 43
+Value: $57=价值：$ 57
+Value: $39=价值：$ 39
+Value: $63=价值：63美元
+Remote=偏僻的
+笔记： \n* Most profitable\n=笔记： *获利最多\n
+Employee=员工
+80 EXP=80 Exp
+Value: $27=价值：$ 27
+89 EXP=89 Exp
+Random seed: 35226205=随机种子：35226205
+
+29 lb=29磅
+PROFIT QUOTA:\n$176 / $130=利润配额：$ 176 / $ 130
+TOTAL: $176=总计：$ 176
+Large axle (x2) : 84 \nBig bolt (x1) : 20 \nStop sign (x1) : 45 \nDust pan (x1) : 27 \n=大号轴承（x2）：84大型螺栓（x1）：20停止符号（x1）：45尘埃锅（x1）：27 \n
+TOTAL: $389=总计：$ 389
+V-type engine (x2) : 69 \nBig bolt (x3) : 76 \nBottles (x1) : 44 \nOld phone (x2) : 120 \nKey (x2) : 6 \nPro-flashlight (x1) : 0 \nApparatus (x1) : 80 \n=V型引擎（X2）：69大型螺栓（x3）：76瓶（x1）：44旧电话（x2）：120键（x2）：6 Pro-Flashlight（x1）：0设备（x1）：80：80 \n
+PROFIT QUOTA:\n$565 / $130=利润配额：$ 565 / $ 130
+PROFIT QUOTA:\n$587 / $130=利润配额：$ 587 / $ 130
+TOTAL: $22=总计：$ 22
+Big bolt (x1) : 22 \nSticky note (x1) : 1 \n=大型螺栓（x1）：22粘发（x1）：1 \n
+
+MONITORING: aiden=监视：aiden
+Overtime bonus: $76=加班奖金：$ 76
+PROFIT QUOTA:\n$0 / $201=利润配额：$ 0 / $ 201
+Random seed: 26728640=随机种子：26728640
+Random seed: 68014119=随机种子：68014119
+105 lb=105磅
+Value: $102=价值：$ 102
+Value: $61=价值：61美元
+86 EXP=86 Exp
+DUE: $11=到期：11美元
+Random seed: 63433540=随机种子：63433540
+Value: $141=价值：$ 141
+笔记： *最懒惰的员工。\n* The most paranoid employee.\n=笔记： *最懒惰员工 * *最偏执的员工。\n
+笔记： *受伤次数最多。\n* Most profitable\n=笔记： *受伤次数最多 * *最有利可图\n
+83 EXP=83 Exp
+DUE: $18=到期：18美元
+Orbiting: 56 Vow\nPOPULATION: Abandoned\nCONDITIONS: Humid. Rough terrain. Teeming with plant-life.\nFAUNA: A competitive ecosystem supports aggressive lifeforms.\nWeather: Foggy=轨道：56 Vow\n人口：已废弃\n环境：潮湿。\n地形崎岖。\n植被覆盖率高。\n动物群系：生态系统中可能存在好斗的生物。\n天气：有雾
+Petter's Crew=彼得的船员
+$403\nDays: 9=$ 403\n天：9
+$30\nDays: 7=$ 30\n天：7
+Random seed: 43983088=随机种子：43983088
+POPULATION: Abandoned\nCONDITIONS: Humid. Rough terrain. Teeming with plant-life.\nFAUNA: A competitive ecosystem supports aggressive lifeforms.=人口：已废弃\n环境：潮湿。\n地形崎岖。\n植被覆盖率高。\n动物群系：生态系统中可能存在好斗的生物。
+CELESTIAL BODY: 56 Vow=天体：56誓言
+
+4:15\nPM=4:15\nPM
+84 EXP=84 Exp
+1 casualties: -0%\n(1 bodies recovered)=1人伤亡：-0％（恢复1个尸体）
+Orbiting: 56 Vow\nPOPULATION: Abandoned\nCONDITIONS: Humid. Rough terrain. Teeming with plant-life.\nFAUNA: A competitive ecosystem supports aggressive lifeforms.\nWeather: Flooded=轨道：56 Vow\n人口：已废弃\n环境：潮湿。\n地形崎岖。\n植被覆盖率高。\n动物群系：生态系统中可能存在好斗的生物。\n天气：洪水
+Random seed: 61451402=随机种子：61451402
+84 lb=84磅
+
+TOTAL: $522=总计：$ 522
+Hive (x2) : 202 \nCash register (x1) : 102 \nLarge axle (x2) : 91 \nTea kettle (x1) : 44 \nV-type engine (x1) : 26 \nBig bolt (x2) : 57 \n=Hive（X2）：202收银机（X1）：102大号轴承（x2）：91茶壶（x1）：44 V型发动机（x1）：26 Big Bolt（x2）：57 \n
+PROFIT QUOTA:\n$522 / $201=利润配额：$ 522 / $ 201
+Key (x1) : 3 \n=钥匙（x1）：3 \n
+Overtime bonus: $49=加班奖金：$ 49
+PROFIT QUOTA:\n$0 / $308=利润配额：$ 0 / $ 308
+Random seed: 54751255=随机种子：54751255
+Random seed: 9486614=随机种子：9486614
+(Some were too far to receive your message.)=（有些太远，无法接收您的消息。）
+3:03\nPM=3:03\nPM
+4:49\nPM=4:49\nPM
+5:10\nPM=5:10\nPM
+5:27\nPM=5:27\nPM
+5:44\nPM=5:44\nPM
+6:01\nPM=6:01\nPM
+6:05\nPM=6:05\nPM
+6:22\nPM=6:22\nPM
+6:39\nPM=6:39\nPM
+7:17\nPM=7:17\nPM
+7:34\nPM=7:34\nPM
+7:51\nPM=7:51\nPM
+8:12\nPM=8:12\nPM
+8:29\nPM=8:29\nPM
+8:46\nPM=8:46\nPM
+92 EXP=92 Exp
+$41\nDays: 11=$ 41\n天：11
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>上菜的加入了船。</color>\n<color\=#ffffff>萝卜 joined the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>上菜的加入了船。</color>\n<color\=#ffffff>萝卜加入了船。</color>
+Random seed: 54316997=随机种子：54316997
+MONITORING: 萝卜0=监视：萝卜0
+\n<color\=#ffffff>萝卜 joined the ship.</color>\n<color\=#ffffff>萝卜0 disconnected.</color>\n<color\=#ffffff>上菜的厨子 disconnected.</color>\n<color\=#ffffff>aiden disconnected.</color>=\n<color\=#ffffff>萝卜加入了船。</color>\n<color\=#ffffff>萝卜0断开连接。</color>\n<color\=#ffffff>断开连接。</color>\n<color\=#ffffff>艾登断开了连接。</color>
+Player #=玩家＃
+Random seed: 88240832=随机种子：88240832
+Value: $23=价值：$ 23
+Value: $41=价值：$ 41
+45 lb=45磅
+Value: $66=价值：66美元
+Value: $58=价值：$ 58
+99 EXP=99 Exp
+Random seed: 5245799=随机种子：5245799
+TOTAL: $369=总计：$ 369
+V-type engine (x1) : 54 \nLarge axle (x3) : 134 \nRing (x2) : 124 \nBig bolt (x1) : 21 \nDust pan (x1) : 23 \nMetal sheet (x1) : 13 \n=V型引擎（X1）：54大号轴承（X3）：134环（x2）：124大型螺栓（x1）：21防尘盘（x1）：23金属板（x1）：13 \n
+PROFIT QUOTA:\n$369 / $308=利润配额：$ 369 / $ 308
+DUE: $38=到期：38美元
+PROFIT QUOTA:\n$0 / $469=利润配额：$ 0 / $ 469
+Random seed: 26519472=随机种子：26519472
+38 lb=38磅
+MONITORING: Sam=监视：Sam
+91 EXP=91 Exp
+DUE: $95=到期：95美元
+4 casualties: -60%\n(1 bodies recovered)=4人伤亡：-60％（恢复1个尸体）
+Orbiting: 56 Vow\nPOPULATION: Abandoned\nCONDITIONS: Humid. Rough terrain. Teeming with plant-life.\nFAUNA: A competitive ecosystem supports aggressive lifeforms.\n=轨道：56 Vow\n人口：已废弃\n环境：潮湿。\n地形崎岖。\n植被覆盖率高。\n动物群系：生态系统中可能存在好斗的生物。\n
+Random seed: 62601631=随机种子：62601631
+48 lb=48磅
+Value: $60=价值：$ 60
+\n<color\=#ffffff>上菜的加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>萝卜0 started the ship.</color>=\n<color\=#ffffff>上菜的加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>萝卜0开始了这艘船。</color>
+95 EXP=95 Exp
+Toy cube=玩具立方体
+Random seed: 91380385=随机种子：91380385
+50 lb=50磅
+82 lb=82磅
+(Spectating: 萝卜0)=（观察：萝卜0）
+Random seed: 96984665=随机种子：96984665
+[Cooldown: 3 sec.]=[冷却：3秒]
+Found journal entry: 'Swing of things - Aug 27=找到日记条目：“事物的摇摆 -  8月27日
+11:43\nPM=11:43\nPM
+Days on the job: 17\nScrap value collected: 1478\nDeaths: 16\nSteps taken: 173214=工作日：收集的17个报废价值：1478死亡：16步：173214
+Orbiting: 61 March\nPOPULATION: Abandoned\nCONDITIONS: Expansive. Constant rain.\nFAUNA: Diverse\nWeather: Flooded=轨道：61 March\n人口：已废弃\n环境：生机勃勃。\n阴雨连绵。\n动物群系：多样\n天气：洪水泛滥
+Random seed: 41902801=随机种子：41902801
+POPULATION: Abandoned\nCONDITIONS: Expansive. Constant rain.\nFAUNA: Diverse=人口：已废弃\n环境：广泛。\n阴雨连绵。\n动物群系：多样
+CELESTIAL BODY: 61 March=天体：61 March\n
+Value: $68=价值：68美元
+(0/3 Votes)=（0/3票）
+DUE: $8=到期：8美元
+Random seed: 83838326=随机种子：83838326
+Value: $187=价值：$ 187
+笔记： *最懒惰员工 * *最偏执的员工。\n* Sustained the most injuries.\n=： * * * * * *最偏执 * *受伤次数最多。\n
+Orbiting: 61 March\nPOPULATION: Abandoned\nCONDITIONS: Expansive. Constant rain.\nFAUNA: Diverse\nWeather: Eclipsed=轨道：61 March\n人口：已废弃\n\n环境：生机勃勃。\n阴雨连绵。\n动物群系：多样\n天气：日食
+Random seed: 3640973=随机种子：3640973
+Random seed: 4858128=随机种子：4858128
+TOTAL: $315=总计：$ 315
+Large axle (x4) : 183 \nBottles (x2) : 95 \nPlastic fish (x1) : 37 \n=大号轴承（x4）：183瓶（x2）：95塑料鱼（x1）：37 \n
+PROFIT QUOTA:\n$315 / $130=利润配额：$ 315 / $ 130
+Overtime bonus: $22=加班奖金：$ 22
+PROFIT QUOTA:\n$0 / $232=利润配额：$ 0 / $ 232
+Orbiting: 21 Offense\nPOPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: A competitive ecosystem supports aggressive lifeforms.\nWeather: Rainy=绕：21次犯罪人口：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在好斗的生物。\n天气：多雨
+Random seed: 42085741=随机种子：42085741
+$31\nDays: 4=$ 31\n天：4
+Random seed: 87724937=随机种子：87724937
+Value: $56=价值：$ 56
+Value: $62=价值：62美元
+64 lb=64磅
+61 lb=61磅
+萝卜0 collected!=萝卜0收集！
+88 EXP=88 Exp
+Orbiting: 21 Offense\nPOPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: A competitive ecosystem supports aggressive lifeforms.\nWeather: Stormy=绕：21次犯罪人口：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在好斗的生物。\n天气：暴风雨
+Random seed: 93894687=随机种子：93894687
+Value: $32=价值：$ 32
+97 EXP=97 Exp
+Orbiting: 61 March\nPOPULATION: Abandoned\nCONDITIONS: Expansive. Constant rain.\nFAUNA: Diverse\nWeathe	r: Foggy=轨道：61 March\n人口：已废弃\n环境：生机勃勃。\n阴雨连绵。\n动物群系：多样\n天气：雾气
+Random seed: 17506700=随机种子：17506700
+101 EXP=101 Exp
+Random seed: 16533786=随机种子：16533786
+54 lb=54磅
+TOTAL: $243=总计：$ 243
+Large axle (x2) : 97 \nCookie mold pan (x2) : 71 \nBig bolt (x1) : 28 \nMetal sheet (x2) : 25 \nV-type engine (x1) : 22 \n=大号轴承（x2）：97 cookie模具锅（x2）：71大型螺栓（x1）：28金属板（x2）：25 V型发动机（x1）：22 \n
+PROFIT QUOTA:\n$243 / $232=利润配额：$ 243 / $ 232
+Large axle (x1) : 38 \nBig bolt (x2) : 49 \nApparatus (x1) : 80 \nV-type engine (x1) : 38 \nPlastic fish (x2) : 63 \nClown horn (x1) : 56 \nMetal sheet (x1) : 14 \nAirhorn (x1) : 52 \n=大号轴承（x1）：38大型螺栓（x2）：49设备（x1）：80 V型发动机（x1）：38塑料鱼（x2）：63个小丑号（x1）：56金属板（x1）：14\nAirhorn（x1）：52 \n
+TOTAL: $390=总计：$ 390
+PROFIT QUOTA:\n$633 / $232=利润配额：$ 633 / $ 232
+PROFIT QUOTA:\n$744 / $232=利润配额：$ 744 / $ 232
+TOTAL: $111=总计：$ 111
+Dust pan (x1) : 31 \nApparatus (x1) : 80 \n=防尘盘（x1）：31设备（x1）：80 \n
+71 lb=71磅
+Items missed!=错过的物品！
+The vehicle returned with your purchased items. Our delivery fee cannot be refunded.=车辆带有您购买的物品。\n我们的交货费无法退还。
+$8\nDays: 7=$ 8\n天：7
+Random seed: 13150822=随机种子：13150822
+V-type engine (x2) : 60 \nLarge axle (x1) : 38 \nMetal sheet (x3) : 39 \nApparatus (x1) : 80 \nCookie mold pan (x1) : 39 \nPlastic fish (x2) : 73 \nClown horn (x1) : 56 \nBig bolt (x1) : 28 \n=V型发动机（X2）：60大号轴承（X1）：38金属板（x3）：39仪（x1）：80 Cookie Mold Pan（X1）：39塑料鱼（x2）：73 Clown Horn（x1）：\n56大型螺栓（x1）：28 \n
+TOTAL: $413=总计：$ 413
+TOTAL: $336=总计：$ 336
+Plastic fish (x1) : 28 \nApparatus (x1) : 80 \nLarge axle (x1) : 54 \nBig bolt (x2) : 49 \nCookie mold pan (x1) : 32 \nOld phone (x1) : 62 \nDust pan (x1) : 31 \n=塑料鱼（x1）：28设备（x1）：80大号轴承（x1）：54大型螺栓（x2）：49 cookie mold pan（x1）：32旧电话（x1）：62防尘盘（x1）：31 \n
+TOTAL: $95=总计：$ 95
+Airhorn (x1) : 52 \nLarge axle (x1) : 43 \n=Airhorn（x1）：52大号轴承（x1）：43 \n
+PROFIT QUOTA:\n$844 / $232=利润配额：$ 844 / $ 232
+DUE: $150=到期：$ 150
+Overtime bonus: $122=加班奖金：$ 122
+PROFIT QUOTA:\n$0 / $364=利润配额：$ 0 / $ 364
+Random seed: 60996219=随机种子：60996219
+MONITORING: Freddy=监视：Freddy
+8:59\nPM=8:59\nPM
+9:20\nPM=9:20\nPM
+9:37\nPM=9:37\nPM
+9:54\nPM=9:54\nPM
+10:11\nPM=10:11\nPM
+98 EXP=98 EXP
+DUE: $39=到期：39美元
+Random seed: 5337222=随机种子：5337222
+Value: $65=价值：65美元
+102 EXP=102 Exp
+Orbiting: 220 Assurance\nPOPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: Ecosystem supports territorial behaviour.\nWeather: Flooded=绕：220 Assurance\n：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在具有领地意识的生物。\n天气：洪水
+Random seed: 26230480=随机种子：26230480
+Random seed: 13288730=随机种子：13288730
+Red soda (x1) : 37 \nMetal sheet (x2) : 37 \nBottles (x2) : 95 \nLarge axle (x1) : 50 \nAirhorn (x2) : 127 \nV-type engine (x1) : 29 \nTea kettle (x1) : 55 \nStop sign (x1) : 46 \nToy cube (x1) : 30 \n=红色苏打（x1）：37金属板（x2）：37瓶（x2）：95大号轴承（x1）：50 airhorn（x2）：127 V型发动机（x1）：29茶壶（x1）：55停止\n符号（x1）：46玩具立方体（x1）：30 \n
+TOTAL: $506=总计：$ 506
+PROFIT QUOTA:\n$506 / $364=利润配额：$ 506 / $ 364
+DUE: $31=到期：$ 31
+Overtime bonus: $13=加班奖金：$ 13
+PROFIT QUOTA:\n$0 / $523=利润配额：$ 0 / $ 523
+Random seed: 79485396=随机种子：79485396
+103 EXP=103 Exp
+DUE: $28=到期：28美元
+Random seed: 16981012=随机种子：16981012
+100 EXP=100 Exp
+DUE: $27=到期：27美元
+Random seed: 16412969=随机种子：16412969
+8:08\nPM=8:08\nPM
+9:03\nPM=9:03\nPM
+9:24\nPM=9:24\nPM
+9:41\nPM=9:41\nPM
+9:58\nPM=9:58\nPM
+10:02\nPM=10:02\nPM
+10:15\nPM=10:15\nPM
+10:19\nPM=10:19\nPM
+DUE: $35=到期：35美元
+4 casualties: -20%\n(3 bodies recovered)=4人伤亡：-20％（恢复3具尸体）
+$51\nDays: 15=$ 51\n天：15
+PROFIT QUOTA:\n$0 / $361=利润配额：$ 0 / $ 361
+Random seed: 67982572=随机种子：67982572
+Random seed: 35535256=随机种子：35535256
+Random seed: 20343921=随机种子：20343921
+Louie=Louie
+DUE: $6=到期：6美元
+$25\nDays: 10=$ 25\n天：10
+Random seed: 47873157=随机种子：47873157
+Random seed: 75786600=随机种子：75786600
+MONITORING: Louie=监视：Louie
+\n<color\=#ffffff>萝卜0断开连接。</color>\n<color\=#ffffff>萝卜加入了船。</color>\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>aiden was left behind.</color>=\n<color\=#ffffff>萝卜0断开连接。</color>\n<color\=#ffffff>萝卜加入了船。</color>\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>艾登被抛下。</color>
+93 EXP=93 Exp
+Random seed: 15485761=随机种子：15485761
+42 lb=42磅
+Spore lizard=孢子蜥蜴
+66 lb=66磅
+96 EXP=96 Exp
+Random seed: 561202=随机种子：561202
+Random seed: 4159416=随机种子：4159416
+V-type engine (x3) : 120 \nDust pan (x1) : 19 \nBig bolt (x3) : 74 \nMetal sheet (x2) : 36 \nLarge axle (x1) : 54 \nClown horn (x1) : 52 \nStop sign (x1) : 45 \n=V型发动机（X3）：120防尘盘（X1）：19大型螺栓（x3）：74金属板（x2）：36大号轴承（x1）：54 Clown Horn（x1）：52停止符号（x1）：x1）：\n45 \n
+TOTAL: $400=总计：$ 400
+PROFIT QUOTA:\n$400 / $361=利润配额：$ 400 / $ 361
+PROFIT QUOTA:\n$780 / $361=利润配额：$ 780 / $ 361
+TOTAL: $380=总计：$ 380
+Large axle (x1) : 53 \nBottles (x1) : 45 \nTea kettle (x3) : 141 \nApparatus (x1) : 80 \nBig bolt (x1) : 22 \nStop sign (x1) : 39 \n=大号轴承（x1）：53瓶（x1）：45茶壶（x3）：141设备（x1）：80大型螺栓（x1）：22停止标志（x1）：39 \n
+$5\nDays: 14=$ 5\n天：14
+Random seed: 33558177=随机种子：33558177
+Random seed: 69791683=随机种子：69791683
+TOTAL: $423=总计：$ 423
+V-type engine (x2) : 87 \nBottles (x1) : 45 \nBig bolt (x3) : 74 \nTea kettle (x2) : 97 \nStop sign (x2) : 84 \nMetal sheet (x2) : 36 \n=V型发动机（X2）：87瓶（X1）：45大型螺栓（x3）：74茶壶（x2）：97停止标志（x2）：84金属板（x2）：36 \n
+TOTAL: $338=总计：$ 338
+Apparatus (x1) : 80 \nV-type engine (x1) : 33 \nBig bolt (x1) : 22 \nTea kettle (x1) : 44 \nClown horn (x1) : 52 \nLarge axle (x2) : 107 \n=设备（X1）：80 V型发动机（X1）：33大型螺栓（x1）：22茶壶（x1）：44 Clown Horn（x1）：52大号轴承（x2）：107 \n
+PROFIT QUOTA:\n$761 / $361=利润配额：$ 761 / $ 361
+
+PROFIT QUOTA:\n$0 / $507=利润配额：$ 0 / $ 507
+Random seed: 90074468=随机种子：90074468
+$802\nDays: 16=$ 802\n天：16
+Random seed: 6492751=随机种子：6492751
+
+58 lb=58磅
+57 lb=57磅
+76 lb=76磅
+96 lb=96磅
+Susie=苏西
+
+Random seed: 14104831=随机种子：14104831
+MONITORING: Player #1=监视：播放器＃1
+
+MONITORING: Seth=监视：Seth
+Value: $78=价值：$ 78
+
+Value: $84=价值：$ 84
+
+Value: $83=价值：$ 83
+
+Value: $110=价值：$ 110
+101 lb=101磅
+
+Value: $121=价值：$ 121
+87 lb=87磅
+
+
+
+Value: $25=价值：$ 25
+
+
+Value: $64=价值：64美元
+
+
+
+Random seed: 21603096=随机种子：21603096
+
+
+Value: $72=价值：$ 72
+Value: $74=价值：$ 74
+106 lb=106磅
+125 lb=125磅
+
+111 EXP=111 Exp
+Random seed: 16918788=随机种子：16918788
+TOTAL: $146=总计：$ 146
+Bell (x2) : 146 \n=贝尔（x2）：146 \n
+PROFIT QUOTA:\n$146 / $130=利润配额：$ 146 / $ 130
+
+PROFIT QUOTA:\n$0 / $218=利润配额：$ 0 / $ 218
+Random seed: 75660748=随机种子：75660748
+Random seed: 31852071=随机种子：31852071
+Random seed: 92978040=随机种子：92978040
+
+
+Value: $69=价值：69美元
+63 lb=63磅
+
+
+59 lb=59磅
+Value: $71=价值：$ 71
+
+Value: $100=价值：$ 100
+68 lb=68磅
+Value: $99=价值：$ 99
+
+
+
+Random seed: 86435566=随机种子：86435566
+TOTAL: $200=总计：200美元
+Plastic fish (x1) : 30 \nPerfume bottle (x1) : 99 \nBell (x1) : 71 \n=塑料鱼（x1）：30香水瓶（x1）：99铃（x1）：71 \n
+PROFIT QUOTA:\n$200 / $218=利润配额：$ 200 / $ 218
+
+TOTAL: $56=总计：56美元
+Bell (x1) : 56 \n=贝尔（x1）：56 \n
+PROFIT QUOTA:\n$256 / $218=利润配额：$ 256 / $ 218
+PROFIT QUOTA:\n$336 / $218=利润配额：$ 336 / $ 218
+73 lb=73磅
+Boombox (x1) : 0 \n=Boombox（x1）：0 \n
+Boombox (x1) : 0 \nPro-flashlight (x1) : 0 \n=Boombox（X1）：0 Pro-Flashlight（X1）：0 \n
+Overtime bonus: $23=加班奖金：$ 23
+PROFIT QUOTA:\n$0 / $343=利润配额：$ 0 / $ 343
+Random seed: 23223677=随机种子：23223677
+
+Value: $10=价值：$ 10
+
+Orbiting: 220 Assurance\nPOPULATION: Abandoned\nCONDITIONS: Jagged and weathered terrain. \nFAUNA: Ecosystem supports territorial behaviour.\nWeather: Eclipsed=绕：220 Assurance\n：已废弃\n环境：怪石嶙峋。\n动物群系：生态系统中可能存在具有领地意识的生物。\n天气：日食
+Random seed: 74266156=随机种子：74266156
+
+VALUE: $114=价值：$ 114
+[Pulling valve]=[拉阀]
+
+
+Value: $96=价值：96美元
+
+
+
+113 EXP=113 Exp
+Random seed: 84846033=随机种子：84846033
+
+100 lb=100磅
+95 lb=95磅
+
+Random seed: 1555014=随机种子：1555014
+
+Random seed: 28008876=随机种子：28008876
+74 lb=74磅
+PROFIT QUOTA:\n$149 / $343=利润配额：$ 149 / $ 343
+TOTAL: $149=总计：$ 149
+Tea kettle (x1) : 48 \nToy robot (x1) : 84 \nBrush (x1) : 17 \n=茶壶（x1）：48玩具机器人（x1）：84刷子（x1）：17 \n
+TOTAL: $205=总计：205美元
+Stop sign (x1) : 25 \nLaser pointer (x1) : 96 \nToy robot (x1) : 84 \n=停车标志（x1）：25镭射指示器（x1）：96玩具机器人（x1）：84 \n
+PROFIT QUOTA:\n$354 / $343=利润配额：$ 354 / $ 343
+TOTAL: $84=总计：$ 84
+Toy robot (x1) : 84 \n=玩具机器人（x1）：84 \n
+PROFIT QUOTA:\n$438 / $343=利润配额：$ 438 / $ 343
+
+Overtime bonus: $4=加班奖金：$ 4
+PROFIT QUOTA:\n$0 / $501=利润配额：$ 0 / $ 501
+
+$777777\nDays: 13=$ 777777\n天：13
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>蕾丝爷爷 joined the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>蕾丝加入了船。</color>
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>蕾丝加入了船。</color>\n<color\=#ffffff>蕾丝爷爷 disconnected.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>蕾丝加入了船。</color>\n<color\=#ffffff>蕾丝断开连接。</color>
+\n<color\=#ffffff>蕾丝加入了船。</color>\n<color\=#ffffff>蕾丝断开连接。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>94Seeeee joined the ship.</color>=\n<color\=#ffffff>蕾丝加入了船。</color>\n<color\=#ffffff>蕾丝断开连接。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>94Seeee加入了船。</color>
+Seeeee=Seeeee
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>Kedi joined the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>Kedi加入了这艘船。</color>
+Kedi=Kedi
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>✪CorKiForChenYi joined the ship.</color>\n<color\=#ffffff>aiden joined the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>corkiforchenyi加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>corkiforchenyi加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>91吕先生 joined the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>corkiforchenyi加入了船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>91吕加入了船。</color>
+CorKiForChenYi=Corkiforchenyi
+Random seed: 84475172=随机种子：84475172
+MONITORING: CorKiForChenYi=监测：Corkiforchenyi
+
+\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>91吕加入了船。</color>\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>CorKiForChenYi disconnected.</color>=\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>91吕加入了船。</color>\n<color\=#ffffff>NumberOne开始了这艘船。</color>\n<color\=#ffffff>Corkiforchenyi断开连接。</color>
+Days on the job: 16\nScrap value collected: 1665\nDeaths: 24\nSteps taken: 210323=工作日：收集的16个报废价值：1665死亡：24步：210323
+\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>94Seeee加入了船。</color>\n<color\=#ffffff>GarySmile joined the ship.</color>=\n<color\=#ffffff>NumberOne加入了船。</color>\n<color\=#ffffff>94Seeee加入了船。</color>\n<color\=#ffffff>加里斯·米勒（Garysmile）加入了这艘船。</color>
+GarySmile=Garysmile
+\n<color\=#ffffff>94Seeee加入了船。</color>\n<color\=#ffffff>加里斯·米勒（Garysmile）加入了这艘船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>Seeeee disconnected.</color>=\n<color\=#ffffff>94Seeee加入了船。</color>\n<color\=#ffffff>加里斯·米勒（Garysmile）加入了这艘船。</color>\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>Seeeee断开了连接。</color>
+Random seed: 29079145=随机种子：29079145
+\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>Seeeee断开了连接。</color>\n<color\=#ffffff>91吕加入了船。</color>\n<color\=#ffffff>GarySmile disconnected.</color>=\n<color\=#ffffff>艾登加入了船。</color>\n<color\=#ffffff>Seeeee断开了连接。</color>\n<color\=#ffffff>91吕加入了船。</color>\n<color\=#ffffff>Garysmile断开了连接。</color>
+\n<color\=#ffffff>91吕加入了船。</color>\n<color\=#ffffff>Garysmile断开了连接。</color>\n<color\=#ffffff>艾登断开了连接。</color>\n<color\=#ffffff>吕先生 disconnected.</color>=\n<color\=#ffffff>91吕加入了船。</color>\n<color\=#ffffff>Garysmile断开了连接。</color>\n<color\=#ffffff>艾登断开了连接。</color>\n<color\=#ffffff>吕断开连接。</color>$774627\nDays: 14=$ 774627\n天：14
+$774627\nDays: 14=$ 774627\n天：14
+CHEESEBURGERS WORLD=芝士汉堡世界
+Many Fun Times=许多有趣的时光
+No device found \n (click to refresh)=找不到设备（单击刷新）
+\n<color\=#7069ff>Bitεthedust joined the ship.</color>=\n<color\=#7069ff>Bitεthedust加入了船。</color>
+Random seed: 63698684=随机种子：63698684
+MONITORING: Bitεthedust=监视：bitεthedust
+8:17\nAM=8:17\nAM
+8:38\nAM=8:38\nAM
+8:55\nAM=8:55\nAM
+Bitεthedust=bitεthedust
+9:12\nAM=9:12\nAM
+ethantanpc's Crew=Ethantanpc的船员
+kelantan=吉兰丹
+Current input device: \n 耳机 (Galaxy Buds2 Pro)=当前输入设备：耳机（Galaxy Buds2 Pro）
+Do you want to delete File 3?=您要删除文件3吗？
+Go back=返回
+Delete=删除
