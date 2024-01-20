@@ -1,8 +1,8 @@
 {
     "name": "Lethal_Company_CN_Localization_Simplified_Chinese",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "https://github.com/xiahualiu/lethal_zh_mod",
-    "description": "Lethal Company 中文汉化MOD 注意：需要手动拷贝字体文件才能用！去主页看教程！",
+    "description": "Lethal Company 中文汉化MOD 已停止更新",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "Aavild-NewTerminal-1.4.0"
